@@ -11,7 +11,9 @@ Use this folder as the skill root. Resolve its location before running commands;
 
 Run `python3 <skill-root>/scripts/sfx.py search "whoosh" --json` to get candidates with absolute audio paths. Search also accepts scene descriptions such as `"failed attempt"` or `"photo capture"`. It matches titles, IDs, categories, tags, recommended uses, and examples; multiple words must all match. It deliberately excludes negative guidance. Run `list --json` for the complete collection or `show <id>` for a full record. Read [the catalog](references/CATALOG.md) for a human-readable overview.
 
-Tags are inferred from filenames, not auditioned. Listen before choosing an excerpt. Files can contain speech, music, silence, or several effects. Do not assume a whole file is one isolated cue.
+Every supplied recording has an individual [use-case guide](references/USE_CASES.md): recommended scenes, timing, situations to avoid, and an example edit. Use the record's `usage` fields to choose a sound for the scene, not just a matching category. These are creative recommendations, not mandatory uses.
+
+Tags remain filename-derived. Check `audio_review.status`: seven recordings have automated audio-analysis notes; the other 64 have filename-based recommendations with unconfirmed audible contents. Automated notes can also mishear speech; heed `audio_review.uncertainty`. No recording is claimed to have been human-auditioned. Audition candidates before choosing them, especially vague names such as Walmart, Whoop, or Spotlight. Files can contain speech, music, silence, several effects, or abrupt volume changes. The cinematic-whoosh collection and long horror clip need selected excerpts. Timing guidance is relative to the visual action, not a verified source in/out point.
 
 ## Prepare the cue
 

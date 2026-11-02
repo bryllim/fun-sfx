@@ -7,6 +7,14 @@ actions, and reactions for deliberate comedic beats. These are starting points;
 the footage and the user's style determine the choice. Search by literal sound
 or mood (`whoosh`, `awkward`, `success`, `sad`, `epic`) and audition first.
 
+For a specific scene, read the matching entry in [USE_CASES.md](USE_CASES.md)
+or run `show <id>`. Every supplied recording includes suggested scenes, timing,
+poor creative matches, and a concrete example. Searches also match those positive
+recommendations, for example `search "failed attempt" --json`. They intentionally
+exclude the negative guidance. Similar sounds serve different roles: a quick
+disappointed sting punctuates a letdown; a sad harmonica phrase can sustain its
+aftermath. Choose according to the edit's pacing rather than the label alone.
+
 The catalog stores whole-file durations, not cue boundaries. Listen for leading
 silence and line up the audible transient with the visual event. For a whoosh,
 its lead-in may start before the cut. Long recordings can contain multiple cues.
@@ -81,3 +89,14 @@ re-encoding. Discovery commands add absolute paths for the current installation.
 supplied recording currently has unverified rights. Update these fields only
 from actual evidence; derivative WAVs inherit the underlying recording's rights.
 
+Optional `usage` fields contain `intent`, `use_when` (a list), `timing`,
+`avoid_when` (a list), `example`, and `basis`. These are editorial recommendations,
+not a transcript. Optional `audio_review` contains `status` (`automated` or
+`not_reviewed`); automated entries include `method`, `audio_sha256`, `summary`,
+and `uncertainty`. A review applies only to the audio with that checksum.
+Seven supplied files received automated semantic analysis; 64 remain unreviewed.
+Even automated notes require auditioning to confirm speech and exact boundaries.
+
+The added fields are compatible extensions to schema version 1. Fresh imports
+can omit them. Edit guidance in `catalog.json` and regenerate both Markdown
+guides with `python3 scripts/render_catalog.py` to keep them synchronized.

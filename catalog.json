@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "FUN SFX",
   "source_collection": "Mini SFX Pack - JOWS",
-  "annotation_basis": "filename; not auditioned",
+  "annotation_basis": "filename-derived tags; editorial use cases for every recording; seven automated audio reviews",
   "asset_license_status": "unverified",
   "count": 71,
   "sounds": [
@@ -16,7 +16,7 @@
         "movement",
         "transition"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags; automated audio review; editorial usage recommendations",
       "original_path": "assets/originals/8-cinematic-whoosh-sound-effect.mp3",
       "audio_path": "assets/originals/8-cinematic-whoosh-sound-effect.mp3",
       "original_sha256": "de53bb971cc4618008e16882e7996d779e69b7e637ca1239f85ae436132fc0c5",
@@ -38,7 +38,27 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Cinematic motion and transitions",
+        "use_when": [
+          "Fast camera moves, whip pans, or scene changes",
+          "Large title or logo entrances"
+        ],
+        "timing": "The automated review places a drone in roughly the first six seconds and multiple sweeps afterward. Audition to select one sweep; start its lead-in before the movement and align its strongest part with the cut.",
+        "avoid_when": [
+          "Do not drop the entire collection under one transition or use repeated loud sweeps beneath dialogue."
+        ],
+        "example": "A travel montage whip-pans from the street to a rooftop; one sweep bridges the cut.",
+        "basis": "editorial recommendation informed by automated audio review"
+      },
+      "audio_review": {
+        "status": "automated",
+        "method": "Diffusion Studio dapi listen",
+        "audio_sha256": "de53bb971cc4618008e16882e7996d779e69b7e637ca1239f85ae436132fc0c5",
+        "summary": "A low drone at roughly the opening six seconds is followed by several sweeping whooshes and resonant impacts. No speech was identified; the overall tone was described as dark and dramatic.",
+        "uncertainty": "Automated descriptions and any approximate timestamps require audition before selecting exact cue boundaries."
+      }
     },
     {
       "id": "sfm-what-the-fuck-is-a-kilometer",
@@ -52,7 +72,7 @@
         "reaction",
         "surprise"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags; automated audio review; editorial usage recommendations",
       "original_path": "assets/originals/sfm-what-the-fuck-is-a-kilometer.mp3",
       "audio_path": "assets/originals/sfm-what-the-fuck-is-a-kilometer.mp3",
       "original_sha256": "a25cb4eaaa2cf5f543119deab89a9f595526765f6ae379e7bee884ef3cc8ef33",
@@ -74,7 +94,27 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Exaggerated patriotic or measurement joke",
+        "use_when": [
+          "A playful metric-versus-imperial comparison",
+          "An intentionally over-the-top character reaction"
+        ],
+        "timing": "Audition to confirm the shouted words, then use the reaction after the visual setup. Trim the loud trailing effects if they distract from the punchline.",
+        "avoid_when": [
+          "Avoid factual explanations where the joke could confuse the units, and edits that require clean language."
+        ],
+        "example": "A cooking edit switches from grams to an absurdly large measuring cup.",
+        "basis": "editorial recommendation informed by filename and automated audio review; speech identification uncertain"
+      },
+      "audio_review": {
+        "status": "automated",
+        "method": "Diffusion Studio dapi listen",
+        "audio_sha256": "a25cb4eaaa2cf5f543119deab89a9f595526765f6ae379e7bee884ef3cc8ef33",
+        "summary": "A loud shouted vocal is followed by rapid percussive bursts and a high siren-like sound. The analysis described a frantic, intense texture.",
+        "uncertainty": "The automated speech reading conflicted with the filename. The exact shouted words are unconfirmed; audition before using a measurement-specific joke. The loud percussive and siren-like tail may dominate the edit."
+      }
     },
     {
       "id": "original-yep-thats-me-youre-probably-wondering",
@@ -86,7 +126,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags; automated audio review; editorial usage recommendations",
       "original_path": "assets/originals/original-yep-thats-me-youre-probably-wondering.mp3",
       "audio_path": "assets/originals/original-yep-thats-me-youre-probably-wondering.mp3",
       "original_sha256": "b046dfabb00f326ef4e9c9d4c8acb82c6e46844d6a5c1850815f3a25249762cf",
@@ -108,7 +148,27 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Freeze-frame introduction to a mishap",
+        "use_when": [
+          "Introducing a chaotic situation before explaining it",
+          "Starting a flashback after a visual cliffhanger"
+        ],
+        "timing": "Audition the abrupt opening effect, then freeze on the awkward frame for the spoken introduction. The reported musical entrance around five seconds can bridge into the backstory; choose the exact cut by listening.",
+        "avoid_when": [
+          "Avoid placing it after the explanation has already resolved the setup or beneath competing narration."
+        ],
+        "example": "A skateboarder hangs mid-fall; the edit freezes before rewinding to the start.",
+        "basis": "editorial recommendation informed by automated audio review"
+      },
+      "audio_review": {
+        "status": "automated",
+        "method": "Diffusion Studio dapi listen",
+        "audio_sha256": "b046dfabb00f326ef4e9c9d4c8acb82c6e46844d6a5c1850815f3a25249762cf",
+        "summary": "An abrupt shriek or glitch-like opening precedes a calm spoken introduction; upbeat orchestral music reportedly enters around five seconds.",
+        "uncertainty": "Automated descriptions and any approximate timestamps require audition before selecting exact cue boundaries."
+      }
     },
     {
       "id": "snore-mimimimimimimi-sound-effect-cartoon-sleeping-sound-effect",
@@ -120,7 +180,7 @@
         "background",
         "pause"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags; automated audio review; editorial usage recommendations",
       "original_path": "assets/originals/snore-mimimimimimimi-sound-effect-cartoon-sleeping-sound-effect.mp3",
       "audio_path": "assets/originals/snore-mimimimimimimi-sound-effect-cartoon-sleeping-sound-effect.mp3",
       "original_sha256": "b80e27ad14c7d55444e6ef57660cd65f57b691ff9e2473576f81673eded570ff",
@@ -142,7 +202,27 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Cartoon boredom or sleep",
+        "use_when": [
+          "A deliberately overlong wait",
+          "A character dozing off or an exaggerated boring moment"
+        ],
+        "timing": "Introduce after the wait is clear; cut it off when action resumes rather than playing through the next beat.",
+        "avoid_when": [
+          "Avoid framing a sincere speaker as boring unless that teasing tone is intentional."
+        ],
+        "example": "A loading screen stays stuck while the character's eyes close.",
+        "basis": "editorial recommendation informed by automated audio review"
+      },
+      "audio_review": {
+        "status": "automated",
+        "method": "Diffusion Studio dapi listen",
+        "audio_sha256": "b80e27ad14c7d55444e6ef57660cd65f57b691ff9e2473576f81673eded570ff",
+        "summary": "Low snores alternate with high, squeaky breathing sounds in several short cycles. The analysis identified no intelligible speech or music.",
+        "uncertainty": "Automated descriptions and any approximate timestamps require audition before selecting exact cue boundaries."
+      }
     },
     {
       "id": "ah-shit-here-we-go-again",
@@ -155,7 +235,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags; automated audio review; editorial usage recommendations",
       "original_path": "assets/originals/ah-shit-here-we-go-again.mp3",
       "audio_path": "assets/originals/ah-shit-here-we-go-again.mp3",
       "original_sha256": "277e5039ee01b9e3345eed1530621b6b5866a3bb74303faae61fddade6af64df",
@@ -177,7 +257,27 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Resigned frustration at a repeated problem",
+        "use_when": [
+          "A retry after the same mistake",
+          "Returning to an unwelcome chore or difficult level"
+        ],
+        "timing": "Place the line immediately after the recurring problem is revealed, before the next attempt begins.",
+        "avoid_when": [
+          "Avoid first-time surprises where the repeated-problem joke does not fit, and clean-language edits."
+        ],
+        "example": "The same error dialog returns just after a confident 'fixed it' caption.",
+        "basis": "editorial recommendation informed by automated audio review"
+      },
+      "audio_review": {
+        "status": "automated",
+        "method": "Diffusion Studio dapi listen",
+        "audio_sha256": "277e5039ee01b9e3345eed1530621b6b5866a3bb74303faae61fddade6af64df",
+        "summary": "A short, weary spoken line expresses frustration about a recurring situation; the automated review identified no accompanying music.",
+        "uncertainty": "Automated descriptions and any approximate timestamps require audition before selecting exact cue boundaries."
+      }
     },
     {
       "id": "alarm-sound-effect",
@@ -189,7 +289,7 @@
         "notification",
         "punctuation"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags; automated audio review; editorial usage recommendations",
       "original_path": "assets/originals/alarm-sound-effect.mp3",
       "audio_path": "assets/originals/alarm-sound-effect.mp3",
       "original_sha256": "59bb2e64d91ce6a8893dbc105c3aec19dad62c3b7f32f4d95f8c0c2ab58b5e9a",
@@ -211,7 +311,27 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Urgency or an exaggerated warning",
+        "use_when": [
+          "A countdown reaching a critical moment",
+          "A clearly comic mistake or danger alert"
+        ],
+        "timing": "Start the repeated buzzer at the warning reveal, use only the needed burst, and add a short end fade if the abrupt cutoff clashes with the next scene.",
+        "avoid_when": [
+          "Avoid long alarm beds beneath explanation or a fake emergency tone in otherwise factual footage."
+        ],
+        "example": "A timer hits zero while the cake is still in the oven.",
+        "basis": "editorial recommendation informed by automated audio review"
+      },
+      "audio_review": {
+        "status": "automated",
+        "method": "Diffusion Studio dapi listen",
+        "audio_sha256": "59bb2e64d91ce6a8893dbc105c3aec19dad62c3b7f32f4d95f8c0c2ab58b5e9a",
+        "summary": "A harsh, repeated electronic buzzer continues through the short file and ends abruptly. No speech or music was identified.",
+        "uncertainty": "Automated descriptions and any approximate timestamps require audition before selecting exact cue boundaries."
+      }
     },
     {
       "id": "anime-wow-sound-effect-free-to-use",
@@ -224,7 +344,7 @@
         "reaction",
         "surprise"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/anime-wow-sound-effect-free-to-use.mp3",
       "audio_path": "assets/originals/anime-wow-sound-effect-free-to-use.mp3",
       "original_sha256": "663a3b907240bd76480c4decf8db2c34decbee4e75d99230eb6253a4b9a85efb",
@@ -246,7 +366,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Playful amazement or admiration",
+        "use_when": [
+          "An impressive reveal with an anime or meme tone",
+          "A surprisingly successful result"
+        ],
+        "timing": "Place the reaction just after the reveal so the viewer sees what earned it; leave room for the vocal phrase.",
+        "avoid_when": [
+          "Avoid sincere emotional reveals that need a natural reaction, or stacking it over a speaker's own exclamation."
+        ],
+        "example": "A plain desk cuts to a colorful completed gaming setup.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "applause-crowd-cheering-sound-effect",
@@ -260,7 +397,7 @@
         "pause",
         "success"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/applause-crowd-cheering-sound-effect.mp3",
       "audio_path": "assets/originals/applause-crowd-cheering-sound-effect.mp3",
       "original_sha256": "0e360155a51e78eb89a8ae7f98d0c0242e0ad5e180092799989692ab76f6a39e",
@@ -282,7 +419,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Celebration or deliberately exaggerated approval",
+        "use_when": [
+          "Finishing a challenge or presenting a successful result",
+          "An intentionally ironic celebration of a tiny achievement"
+        ],
+        "timing": "Start just after the achievement is visible and fade before the next explanation.",
+        "avoid_when": [
+          "Avoid implying a real audience applauded when authenticity matters, or using it over a crucial spoken thank-you."
+        ],
+        "example": "Someone finally opens a stubborn jar and receives a comically grand celebration.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "awkward-cricket-sound-effect",
@@ -297,7 +451,7 @@
         "pause",
         "silence"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/awkward-cricket-sound-effect.mp3",
       "audio_path": "assets/originals/awkward-cricket-sound-effect.mp3",
       "original_sha256": "89ed7e5eb7f3e1fcbb19b7e42f76b2a4eea8f004d3b6f6dd837f338b6ef29a76",
@@ -319,7 +473,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An unanswered joke or social silence",
+        "use_when": [
+          "A joke that gets no response",
+          "A question met by blank expressions"
+        ],
+        "timing": "Allow a short empty beat after the line, then introduce the crickets under the held reaction shot.",
+        "avoid_when": [
+          "Avoid adding it before the viewer understands the silence or carrying it into the next conversation."
+        ],
+        "example": "A host asks for volunteers and cuts to an unmoving room.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "awkward-pause-anime-sounds-sound-effects-for-editing",
@@ -333,7 +504,7 @@
         "reaction",
         "silence"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/awkward-pause-anime-sounds-sound-effects-for-editing.mp3",
       "audio_path": "assets/originals/awkward-pause-anime-sounds-sound-effects-for-editing.mp3",
       "original_sha256": "dee2fbaf5fe763c52d7a81191d2f2e1d16f3f71728b269e052b22819f1ee908b",
@@ -355,7 +526,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An uncomfortable or puzzled held moment",
+        "use_when": [
+          "A character processing an odd statement",
+          "A stalled conversation in an anime-style comedy edit"
+        ],
+        "timing": "Hold the reaction after the setup, select a short section, and end it when someone responds.",
+        "avoid_when": [
+          "Avoid using the full clip for a brief pause or making a serious disclosure into a joke."
+        ],
+        "example": "A confident explanation ends with a visibly confused stare.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "bamboo-hit-sound-effect-hd",
@@ -367,7 +555,7 @@
         "hit",
         "impact"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/bamboo-hit-sound-effect-hd.mp3",
       "audio_path": "assets/originals/bamboo-hit-sound-effect-hd.mp3",
       "original_sha256": "ae6416cd07a23607327c38f896d29288ec98f43f9c861eaf16c2df374078c510",
@@ -389,7 +577,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A small cartoon impact or sharp emphasis",
+        "use_when": [
+          "A harmless slapstick bonk",
+          "A quick tap, poke, or text punch"
+        ],
+        "timing": "Align the attack with the contact frame or emphasized word; keep the tail short.",
+        "avoid_when": [
+          "Avoid realistic injury footage or using it as a heavy cinematic explosion."
+        ],
+        "example": "A foam hammer taps a helmet during a playful demonstration.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "bass-boost-sound-effect",
@@ -401,7 +606,7 @@
         "hit",
         "impact"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/bass-boost-sound-effect.mp3",
       "audio_path": "assets/originals/bass-boost-sound-effect.mp3",
       "original_sha256": "526863fa0a8de36f5b56e4114b7527dc116131c05970ea0606e83a63035a0a36",
@@ -423,7 +628,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An intentionally excessive low-end accent",
+        "use_when": [
+          "A deliberately absurd reveal",
+          "A meme zoom or exaggerated beat hit"
+        ],
+        "timing": "Use a brief accented section on the reveal and reduce gain before mixing; check the result on headphones and small speakers.",
+        "avoid_when": [
+          "Avoid boosting an already loud mix or masking dialogue with sustained bass."
+        ],
+        "example": "A tiny toy car is introduced as though it were a monster truck.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "bye-have-a-great-time-meme-sound-sound-effect-for-editing",
@@ -435,7 +657,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/bye-have-a-great-time-meme-sound-sound-effect-for-editing.mp3",
       "audio_path": "assets/originals/bye-have-a-great-time-meme-sound-sound-effect-for-editing.mp3",
       "original_sha256": "1fa88f3c02ddf35ada26ffa7d5da6fb3f27c885f713741feef1f61b69755ffbf",
@@ -457,7 +679,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A cheerful or sarcastic departure",
+        "use_when": [
+          "A character leaving immediately after causing trouble",
+          "A lighthearted outro or dismissal"
+        ],
+        "timing": "Start as the person turns away or exits, then cut once the phrase finishes.",
+        "avoid_when": [
+          "Avoid a sensitive goodbye or a departure scene with important speech."
+        ],
+        "example": "Someone makes a mess, waves, and leaves the frame.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "camera-flash-sound-effect",
@@ -469,7 +708,7 @@
         "notification",
         "punctuation"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/camera-flash-sound-effect.mp3",
       "audio_path": "assets/originals/camera-flash-sound-effect.mp3",
       "original_sha256": "48da4f4cdf72e75964bcfbf4a8bf8debd70e05967f15ca8599f54dab146d0f2a",
@@ -491,7 +730,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A stylized photo or paparazzi moment",
+        "use_when": [
+          "A flash-frame transition",
+          "A glamour pose or rapid photo montage"
+        ],
+        "timing": "Match the cue to the bright flash or photo capture, choosing an excerpt if it contains several events.",
+        "avoid_when": [
+          "Avoid adding flashes to documentary footage in a way that implies cameras were actually present."
+        ],
+        "example": "A product rotates into a hero pose as the frame briefly flashes white.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "camera-shutter-sound-effect",
@@ -503,7 +759,7 @@
         "notification",
         "punctuation"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/camera-shutter-sound-effect.mp3",
       "audio_path": "assets/originals/camera-shutter-sound-effect.mp3",
       "original_sha256": "b224237b5c850ac76c82673638a484e98a14244eb3973a0a2310a72a958bd28b",
@@ -525,7 +781,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A still-photo capture",
+        "use_when": [
+          "Freezing a video into a photograph",
+          "Marking a screenshot, snapshot, or photo montage beat"
+        ],
+        "timing": "Put the shutter attack on the freeze-frame or capture moment, not at the start of the subject's pose.",
+        "avoid_when": [
+          "Avoid using a shutter for every unrelated cut or as a generic success notification."
+        ],
+        "example": "A smiling group freezes into a postcard-style still.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "cartoon-falling-sound-effect",
@@ -537,7 +810,7 @@
         "hit",
         "impact"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/cartoon-falling-sound-effect.mp3",
       "audio_path": "assets/originals/cartoon-falling-sound-effect.mp3",
       "original_sha256": "5058c2b5771bc18adbcca264ed260f7cd2df7421e07b7290005f8aee5cbe8137",
@@ -559,7 +832,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A comic downward movement",
+        "use_when": [
+          "A harmless object falling off screen",
+          "A falling graph, character, or animated sticker"
+        ],
+        "timing": "Align the descending gesture with the drop; if adding a separate landing sound, let that mark the contact frame.",
+        "avoid_when": [
+          "Avoid real accidents or pairing it with upward movement."
+        ],
+        "example": "A confidence meter slides from maximum to zero.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "cr1tikal-yeah-baby",
@@ -573,7 +863,7 @@
         "reaction",
         "success"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/cr1tikal-yeah-baby.mp3",
       "audio_path": "assets/originals/cr1tikal-yeah-baby.mp3",
       "original_sha256": "8d2c3624c415c162008292632dc0f61907e1af08ffa5852b5b5d3a9095f89681",
@@ -595,7 +885,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A large, vocal celebration",
+        "use_when": [
+          "Winning a long-running challenge",
+          "A successful reveal after several failures"
+        ],
+        "timing": "Let the result register, then use the celebratory phrase; leave space for the vocal buildup instead of trimming it into gibberish.",
+        "avoid_when": [
+          "Avoid low-key professional congratulations or playing the voice over the creator's own reaction."
+        ],
+        "example": "A difficult game level finally clears after a montage of failed attempts.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "damn-boi-he-thicc-meme-sound-sound-effect-for-editing",
@@ -607,7 +914,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/damn-boi-he-thicc-meme-sound-sound-effect-for-editing.mp3",
       "audio_path": "assets/originals/damn-boi-he-thicc-meme-sound-sound-effect-for-editing.mp3",
       "original_sha256": "20605d340c4afadeb4224b1387c53278fe1591d8523c34c55874df1d66cb9552",
@@ -629,7 +936,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Exaggerated admiration of size",
+        "use_when": [
+          "An oversized object, portion, or chunky design",
+          "A playful visual reveal about scale"
+        ],
+        "timing": "Reveal the object first, then choose the relevant spoken reaction; keep the line intelligible.",
+        "avoid_when": [
+          "Avoid directing it at a person's body without a clearly welcome joke, or using it in clean-language edits."
+        ],
+        "example": "A normal sandwich is replaced by an absurdly tall stack.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "ding-sound-effect-free-download",
@@ -643,7 +967,7 @@
         "punctuation",
         "success"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/ding-sound-effect-free-download.mp3",
       "audio_path": "assets/originals/ding-sound-effect-free-download.mp3",
       "original_sha256": "18e25340b7cd3be1f49945c25c7cc06666ef4072ac7fb4f9d04b09c972b2015f",
@@ -665,7 +989,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A small success or moment of realization",
+        "use_when": [
+          "Checking off a completed step",
+          "A correct answer or newly understood idea"
+        ],
+        "timing": "Align the bell's attack with the checkmark, answer reveal, or lightbulb graphic.",
+        "avoid_when": [
+          "Avoid celebrating an incorrect answer or treating every caption as an achievement."
+        ],
+        "example": "A checklist item turns green as the first assembly step is finished.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "emu-otori",
@@ -677,7 +1018,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/emu-otori.mp3",
       "audio_path": "assets/originals/emu-otori.mp3",
       "original_sha256": "79e9db80e1241231beff385c8bfa0429d510df813ee00f2056872eb462d96e5c",
@@ -699,7 +1040,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An exuberant character-style reaction",
+        "use_when": [
+          "A playful greeting or high-energy introduction",
+          "An intentionally cute or chaotic reveal"
+        ],
+        "timing": "Use a complete vocal gesture after the entrance and give the reaction its own space.",
+        "avoid_when": [
+          "Avoid unexplained character references in a restrained edit or placing the voice beneath other speech."
+        ],
+        "example": "A bright mascot pops into frame after an understated introduction.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "enemy-spotted-sound-effect",
@@ -710,7 +1068,7 @@
         "game",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/enemy-spotted-sound-effect.mp3",
       "audio_path": "assets/originals/enemy-spotted-sound-effect.mp3",
       "original_sha256": "d5acb25812d8a672ace98e61a0ebad3811c30ec16ebae2f6798be13dd7519bb7",
@@ -732,7 +1090,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Playful identification of a target",
+        "use_when": [
+          "A gaming opponent entering view",
+          "A harmless object framed as a mock rival"
+        ],
+        "timing": "Start when the target is visible and synchronize with a pointer, zoom, or highlight.",
+        "avoid_when": [
+          "Avoid implying a real person is a threat in serious footage or playing before the target is shown."
+        ],
+        "example": "A gamer spots the last slice of pizza and the edit highlights it.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "epic-choir-meme-sound-effect-hd-1",
@@ -746,7 +1121,7 @@
         "reveal",
         "sting"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/epic-choir-meme-sound-effect-hd-1.mp3",
       "audio_path": "assets/originals/epic-choir-meme-sound-effect-hd-1.mp3",
       "original_sha256": "6602fd33655cf7f866b6992f77312777a5684910b75aff4ec039fb8a012ce567",
@@ -768,7 +1143,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A brief grand reveal",
+        "use_when": [
+          "An ordinary object presented as legendary",
+          "A triumphant or mock-divine discovery"
+        ],
+        "timing": "Align the choir's entrance with the reveal and preserve enough of the sting to resolve.",
+        "avoid_when": [
+          "Avoid a long dialogue-heavy reveal where the choral accent would compete for attention."
+        ],
+        "example": "A drawer opens to reveal the missing charger under a beam of light.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "faah-sound-effect",
@@ -781,7 +1173,7 @@
         "reaction",
         "surprise"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/faah-sound-effect.mp3",
       "audio_path": "assets/originals/faah-sound-effect.mp3",
       "original_sha256": "86ffe45893b68921dc0f74cdb816b2366c36f6a2d3ba34dfc64e77c23713acbb",
@@ -803,7 +1195,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A sudden exaggerated vocal reaction",
+        "use_when": [
+          "An absurd surprise or comic error",
+          "A quick reaction cut in a meme-heavy edit"
+        ],
+        "timing": "Place the strongest vocal moment just after the surprise; audition first to choose how much lead-in to keep.",
+        "avoid_when": [
+          "Avoid a neutral tutorial or a scene that needs a subtle emotional response."
+        ],
+        "example": "A careful stack of cups immediately tips over on the final cup.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "five-nights-at-freddys-1-power-runs-out-jumpscare-warning",
@@ -816,7 +1225,7 @@
         "scream",
         "tension"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/five-nights-at-freddys-1-power-runs-out-jumpscare-warning.mp3",
       "audio_path": "assets/originals/five-nights-at-freddys-1-power-runs-out-jumpscare-warning.mp3",
       "original_sha256": "369b886ca3ac9a1784b8f4ba3ea8351b30b1e5037768915cd81fa17497567361",
@@ -838,7 +1247,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A staged horror buildup and scare",
+        "use_when": [
+          "A deliberate power-out horror sequence",
+          "A parody that needs a slow suspense setup before a shock"
+        ],
+        "timing": "Choose the suspense section or the scare as separate cues; locate their boundaries before editing rather than using the entire long file.",
+        "avoid_when": [
+          "Avoid surprise blasts in a calm edit or assuming the opening of the file is the jumpscare."
+        ],
+        "example": "A room goes dark, the character waits, and the cut reveals a harmless toy as the scare lands.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "fortnite-chest-sound-effect",
@@ -849,7 +1275,7 @@
         "game",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/fortnite-chest-sound-effect.mp3",
       "audio_path": "assets/originals/fortnite-chest-sound-effect.mp3",
       "original_sha256": "cd37b3cb480718c18f1a2f152627a6fe8bc7a227a46e147afd9a4dc95932356a",
@@ -871,7 +1297,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Anticipation of hidden loot or treasure",
+        "use_when": [
+          "Searching near a reward",
+          "Building toward a box, drawer, or chest reveal"
+        ],
+        "timing": "Use a short section while the reward is still hidden; verify whether the file contains ambience, an opening cue, or both before syncing it.",
+        "avoid_when": [
+          "Avoid treating the entire recording as a single opening impact or using it beneath detailed narration."
+        ],
+        "example": "A camera creeps toward a mystery box before the lid opens.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "fortnite-teamate-down-sound-effect",
@@ -882,7 +1325,7 @@
         "game",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/fortnite-teamate-down-sound-effect.mp3",
       "audio_path": "assets/originals/fortnite-teamate-down-sound-effect.mp3",
       "original_sha256": "d587887ff88410b2317d4dfc703a196a8fde06ec85b6f67d973124e81147eb5e",
@@ -904,7 +1347,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A lighthearted teammate failure cue",
+        "use_when": [
+          "A teammate being knocked down in gameplay",
+          "A mock 'helper unavailable' moment"
+        ],
+        "timing": "Place the alert on the defeat indicator or the moment the teammate drops out of the task.",
+        "avoid_when": [
+          "Avoid real injury footage or implying a game event that did not occur in a factual replay."
+        ],
+        "example": "A co-op partner fails a jump just as the team needs help.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "goofy-ahh-song",
@@ -916,7 +1376,7 @@
         "music",
         "sting"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/goofy-ahh-song.mp3",
       "audio_path": "assets/originals/goofy-ahh-song.mp3",
       "original_sha256": "9472ad9f772294145013d73755fab0330fee5647138af4cb518d230a3722864f",
@@ -938,7 +1398,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Absurd background music for an extended comic sequence",
+        "use_when": [
+          "A montage of silly attempts",
+          "A deliberately chaotic or unserious explanation"
+        ],
+        "timing": "Choose a short musical passage that covers the joke; cut or fade at a phrase boundary rather than using the full long track.",
+        "avoid_when": [
+          "Avoid serious instructions, emotional scenes, or continuous loud music under dialogue."
+        ],
+        "example": "Several increasingly impractical attempts to carry too many groceries play in quick succession.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "guy-screams-and-disappears-sound-effect-hd",
@@ -952,7 +1429,7 @@
         "scream",
         "tension"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/guy-screams-and-disappears-sound-effect-hd.mp3",
       "audio_path": "assets/originals/guy-screams-and-disappears-sound-effect-hd.mp3",
       "original_sha256": "c0ea9a1598905b981bfe10316a90c08997569f503310da01c5d0fbe12d1c6b45",
@@ -974,7 +1451,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A sudden panic reaction or comic disappearance",
+        "use_when": [
+          "A character vanishing from frame",
+          "A harmless surprise that prompts exaggerated panic"
+        ],
+        "timing": "Align the vocal peak with the disappearance or reaction cut, keeping the setup visible first.",
+        "avoid_when": [
+          "Avoid real distress footage or adding an unexpected loud scream to a calm sequence."
+        ],
+        "example": "An avatar sees a difficult boss and instantly disappears behind a cut.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "hd-fortnite-drink-shield-potion-sound-effect",
@@ -985,7 +1479,7 @@
         "game",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/hd-fortnite-drink-shield-potion-sound-effect.mp3",
       "audio_path": "assets/originals/hd-fortnite-drink-shield-potion-sound-effect.mp3",
       "original_sha256": "c953887ec3d30246c4225255c30cb4d0b47609bd7dfc2b3a8e4456217177151e",
@@ -1007,7 +1501,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A game-like recharge or preparation action",
+        "use_when": [
+          "Drinking a potion in gameplay",
+          "A playful energy-restoration or getting-ready montage"
+        ],
+        "timing": "Match a selected section to the drinking action and let the completion coincide with the end of the sip or progress animation.",
+        "avoid_when": [
+          "Avoid implying a real drink has health benefits or using a long action sound for a quick button press."
+        ],
+        "example": "A creator drinks water and an obviously fictional energy bar fills.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "heavens-choir-sound-effect",
@@ -1021,7 +1532,7 @@
         "reveal",
         "sting"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/heavens-choir-sound-effect.mp3",
       "audio_path": "assets/originals/heavens-choir-sound-effect.mp3",
       "original_sha256": "e74a84d652cad418457032dc9eacf21fff89de56893340a3dc85338fb7a5da70",
@@ -1043,7 +1554,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An extended heavenly or wondrous reveal",
+        "use_when": [
+          "A slow reveal of a coveted object",
+          "A deliberately grand 'solution found' moment"
+        ],
+        "timing": "Bring the choir in with the reveal and let a short musical phrase sustain the held shot before fading.",
+        "avoid_when": [
+          "Avoid a tiny interface action that only needs a brief ding or drowning out the reveal's spoken explanation."
+        ],
+        "example": "After a long search, a closet opens to reveal the missing costume in a mock beam of light.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "help-me-meme-sound-effect",
@@ -1057,7 +1585,7 @@
         "scream",
         "tension"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/help-me-meme-sound-effect.mp3",
       "audio_path": "assets/originals/help-me-meme-sound-effect.mp3",
       "original_sha256": "4744a6b3ecf56414dc84f6caf21344a69493391d422f9e20290db127ca9bb704",
@@ -1079,7 +1607,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Comic helplessness",
+        "use_when": [
+          "A character overwhelmed by a harmless task",
+          "A failed attempt that calls for exaggerated rescue"
+        ],
+        "timing": "Use the plea after the difficulty is visible, leaving a gap in narration for the line.",
+        "avoid_when": [
+          "Avoid footage of genuine distress or using it where the request could be mistaken for a real call for help."
+        ],
+        "example": "An elaborate cable-tidying plan turns into an even larger knot.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "huh-sound-effect",
@@ -1092,7 +1637,7 @@
         "reaction",
         "surprise"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags; automated audio review; editorial usage recommendations",
       "original_path": "assets/originals/huh-sound-effect.mp3",
       "audio_path": "assets/originals/huh-sound-effect.mp3",
       "original_sha256": "4a01f3743bd9b441447d1900966ce8bdb27011f34066d9383773023b944ad7b8",
@@ -1114,7 +1659,27 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A quick confused reaction",
+        "use_when": [
+          "An unexpected statement that needs a double take",
+          "A puzzling instruction or contradictory result"
+        ],
+        "timing": "Place the short questioning vocal after the surprising line, on the confused reaction shot.",
+        "avoid_when": [
+          "Avoid a long suspense hold or talking over the sentence the viewer needs to understand."
+        ],
+        "example": "A recipe requests an ingredient that has never been mentioned, followed by a puzzled look.",
+        "basis": "editorial recommendation informed by automated audio review"
+      },
+      "audio_review": {
+        "status": "automated",
+        "method": "Diffusion Studio dapi listen",
+        "audio_sha256": "4a01f3743bd9b441447d1900966ce8bdb27011f34066d9383773023b944ad7b8",
+        "summary": "A short questioning vocal says Huh with rising intonation and a puzzled tone, followed by a brief quiet tail.",
+        "uncertainty": "Automated descriptions and any approximate timestamps require audition before selecting exact cue boundaries."
+      }
     },
     {
       "id": "illuminati-confirmed-the-x-files-theme-sound-effect-hd",
@@ -1126,7 +1691,7 @@
         "music",
         "sting"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/illuminati-confirmed-the-x-files-theme-sound-effect-hd.mp3",
       "audio_path": "assets/originals/illuminati-confirmed-the-x-files-theme-sound-effect-hd.mp3",
       "original_sha256": "b4182fb1f08864b8ddddcb78cb1db033f0a0b3b9d79d257ccfbaf7ae4a945e18",
@@ -1148,7 +1713,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A mock conspiracy or suspicious discovery",
+        "use_when": [
+          "A joking connection between unrelated details",
+          "A dramatic zoom on an odd coincidence"
+        ],
+        "timing": "Introduce the musical cue when the highlighted detail becomes visible; keep the excerpt short enough that the joke remains clear.",
+        "avoid_when": [
+          "Avoid implying real wrongdoing or presenting a serious claim as supported evidence."
+        ],
+        "example": "Three unrelated objects form a triangle and the edit zooms in with mock seriousness.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "it-was-at-this-moment-that-he-knew-he-f-cked-up-sound-effect-no-copyright",
@@ -1161,7 +1743,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/it-was-at-this-moment-that-he-knew-he-f-cked-up-sound-effect-no-copyright.mp3",
       "audio_path": "assets/originals/it-was-at-this-moment-that-he-knew-he-f-cked-up-sound-effect-no-copyright.mp3",
       "original_sha256": "293f3c81be5bf2840c54053228690fe616ca5b30346b3d70d05ebe622bda2b2a",
@@ -1183,7 +1765,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Forewarning that a decision will go wrong",
+        "use_when": [
+          "Freezing immediately before a predictable mistake",
+          "A narrator-style setup for a failed attempt"
+        ],
+        "timing": "Freeze just before the consequence, play the line, and resume into the payoff afterward.",
+        "avoid_when": [
+          "Avoid revealing the joke after the consequence is already over or using it in clean-language edits."
+        ],
+        "example": "A hand reaches for a visibly unstable stack, freezes, and then resumes into the collapse.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "japanese-yoooo-sound",
@@ -1196,7 +1795,7 @@
         "reaction",
         "surprise"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/japanese-yoooo-sound.mp3",
       "audio_path": "assets/originals/japanese-yoooo-sound.mp3",
       "original_sha256": "f04ce21746f43db12e2dec7682dc180d8e3002da7f4a504fa84c35e7cf79190b",
@@ -1218,7 +1817,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A theatrical or stylized reveal",
+        "use_when": [
+          "A dramatic pose in an anime-influenced edit",
+          "A playful entrance with a deliberate held beat"
+        ],
+        "timing": "Put the vocal accent on the pose or reveal; leave enough of its rise and release to retain the gesture.",
+        "avoid_when": [
+          "Avoid assuming viewers understand a cultural reference or using it for a realistic natural reaction."
+        ],
+        "example": "A chef holds up a perfectly shaped pancake like a ceremonial unveiling.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "love-sound-effect",
@@ -1230,7 +1846,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/love-sound-effect.mp3",
       "audio_path": "assets/originals/love-sound-effect.mp3",
       "original_sha256": "d572691f7921b4295faadc5f20cec2f72fb6121948e78b9ac40374a88e7fb27a",
@@ -1252,7 +1868,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A playful crush or fondness cue",
+        "use_when": [
+          "A heart graphic appearing beside a favorite object",
+          "An intentionally exaggerated affectionate reaction"
+        ],
+        "timing": "Start with the fond look or heart animation and use a short accent rather than a continuous bed.",
+        "avoid_when": [
+          "Avoid implying attraction between real people without context or interrupting sincere romantic dialogue."
+        ],
+        "example": "A tired creator sees a fresh cup of coffee and the frame fills with tiny hearts.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "minecraft-death-sound-effect",
@@ -1263,7 +1896,7 @@
         "game",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/minecraft-death-sound-effect.mp3",
       "audio_path": "assets/originals/minecraft-death-sound-effect.mp3",
       "original_sha256": "d5275b058ff715dcb534893feaf86a3bdd0ce3708cea752c46d2e177e284e7c8",
@@ -1285,7 +1918,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A game-style failure or reset",
+        "use_when": [
+          "A harmless task ending in failure",
+          "A gaming defeat or mock loss of a life"
+        ],
+        "timing": "Place the cue on the failure frame, then give the next attempt a clean start.",
+        "avoid_when": [
+          "Avoid real accidents or using it when the character has succeeded."
+        ],
+        "example": "A carefully built block tower falls and a retry caption appears.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "money-money-money-sound-effect-hd",
@@ -1297,7 +1947,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/money-money-money-sound-effect-hd.mp3",
       "audio_path": "assets/originals/money-money-money-sound-effect-hd.mp3",
       "original_sha256": "f94c88e9ad9c06c723fec93b9de8e75cf83faf69981e9a224885a511f44335d2",
@@ -1319,7 +1969,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An exaggerated focus on cost or profit",
+        "use_when": [
+          "A price reveal or pretend payday",
+          "A character choosing the expensive option"
+        ],
+        "timing": "Place a short phrase after the number or money-related visual appears, with room for any vocals.",
+        "avoid_when": [
+          "Avoid factual financial explanation where a playful sting could imply guaranteed profit."
+        ],
+        "example": "A shopping cart total rises dramatically as one extra accessory is added.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "muda-muda-muda-sound-effect",
@@ -1331,7 +1998,7 @@
         "hit",
         "impact"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/muda-muda-muda-sound-effect.mp3",
       "audio_path": "assets/originals/muda-muda-muda-sound-effect.mp3",
       "original_sha256": "44129600d92ca8d8823d1d8bcdfb91f55c25b701337f7399f056a4568674944b",
@@ -1353,7 +2020,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A rapid flurry of comic action",
+        "use_when": [
+          "A stylized sequence of repeated hits or button presses",
+          "A fast montage of exaggerated effort"
+        ],
+        "timing": "Match the repeated vocal rhythm to the action montage; select a section long enough to make the repetition intentional.",
+        "avoid_when": [
+          "Avoid real violence or layering the vocal repetition under essential dialogue."
+        ],
+        "example": "A character rapidly stamps a pile of fictional forms in time with the flurry.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "objection-sound-effect",
@@ -1365,7 +2049,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/objection-sound-effect.mp3",
       "audio_path": "assets/originals/objection-sound-effect.mp3",
       "original_sha256": "6ecc54cd8de41e4b9f616e349b0144f32f1db2c3a63be1d9202a4c7f1ff5de93",
@@ -1387,7 +2071,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A forceful comic interruption or correction",
+        "use_when": [
+          "Contradicting an obviously false statement",
+          "Revealing a playful counterargument"
+        ],
+        "timing": "Cut in at the argumentative turning point, preferably with a reaction shot or bold correction graphic.",
+        "avoid_when": [
+          "Avoid interrupting the crucial part of the original claim or using it for a quiet clarification."
+        ],
+        "example": "A character says the cake is finished, then another reveals the uncooked center.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "pokeball-opening-sound-fx",
@@ -1398,7 +2099,7 @@
         "game",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/pokeball-opening-sound-fx.mp3",
       "audio_path": "assets/originals/pokeball-opening-sound-fx.mp3",
       "original_sha256": "bdc65bd32ba7ae8967628ef3039baea1c73d74580cb347bf5fb4563e47c5f2ea",
@@ -1420,7 +2121,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A game-like summon or release",
+        "use_when": [
+          "Introducing a collectible, character, or toy",
+          "A playful transformation or container opening"
+        ],
+        "timing": "Audition for the release moment and align that event with the appearance; trim any preceding or following game sounds separately.",
+        "avoid_when": [
+          "Avoid treating the full clip as one instant sound or implying gameplay events in an accurate replay."
+        ],
+        "example": "A small capsule opens and a toy mascot appears through a jump cut.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "sad-harmonica-sound-effect-piano-man-sfx",
@@ -1435,7 +2153,7 @@
         "sad",
         "sting"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/sad-harmonica-sound-effect-piano-man-sfx.mp3",
       "audio_path": "assets/originals/sad-harmonica-sound-effect-piano-man-sfx.mp3",
       "original_sha256": "69e179e5a2361148d21ea2f750d436a424171773688905ac4ad07c43324e2347",
@@ -1457,7 +2175,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A wistful or deliberately pathetic musical aftermath",
+        "use_when": [
+          "A failed attempt followed by a lingering reaction",
+          "A comic walk-away after disappointment"
+        ],
+        "timing": "Start after the result is clear and allow a short melodic phrase to accompany the aftermath.",
+        "avoid_when": [
+          "Avoid sincere grief, or cutting the phrase so tightly that it loses the rueful musical effect."
+        ],
+        "example": "A tiny burnt pancake sits alone on a large plate while the cook stares at it.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "sexy-sax-sound-effect",
@@ -1469,7 +2204,7 @@
         "music",
         "sting"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/sexy-sax-sound-effect.mp4",
       "audio_path": "assets/audio/sexy-sax-sound-effect.wav",
       "original_sha256": "7bbec10593f3325d30b54bbbe2752e0f0f9d436fc0fc50c274aa0e30cffd2124",
@@ -1491,7 +2226,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An intentionally cheeky glamour reveal",
+        "use_when": [
+          "An exaggerated product beauty shot",
+          "A knowingly flirtatious parody"
+        ],
+        "timing": "Align a recognizable musical phrase with the slow reveal or pose and fade before dialogue resumes.",
+        "avoid_when": [
+          "Avoid serious romance or adding a suggestive framing to people who are not participating in the joke."
+        ],
+        "example": "A spotless kitchen appliance receives an absurdly glamorous slow-motion reveal.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "splat-sound-effects-no-copyright",
@@ -1503,7 +2255,7 @@
         "hit",
         "impact"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/splat-sound-effects-no-copyright.mp3",
       "audio_path": "assets/originals/splat-sound-effects-no-copyright.mp3",
       "original_sha256": "6f0b357e10d2662cdc15b82887281ac999ec3902873e184d96bd71a856aa1fac",
@@ -1525,7 +2277,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A soft, messy cartoon landing",
+        "use_when": [
+          "A harmless blob or goo hitting a surface",
+          "A slapstick food or animation impact"
+        ],
+        "timing": "Put the transient exactly on contact and keep any tail short enough not to blur the next action.",
+        "avoid_when": [
+          "Avoid hard metallic impacts or real injury footage."
+        ],
+        "example": "A spoonful of batter lands on the counter instead of the pan.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "spongebob-disappointed-sound-steel-sting",
@@ -1540,7 +2309,7 @@
         "reaction",
         "sad"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/spongebob-disappointed-sound-steel-sting.mp3",
       "audio_path": "assets/originals/spongebob-disappointed-sound-steel-sting.mp3",
       "original_sha256": "64d299e3962b3d2606c590da9ec296b505acf1f8db32a6e4dd8ca53512edbe3a",
@@ -1562,7 +2331,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A brief comic letdown",
+        "use_when": [
+          "An underwhelming reveal",
+          "An expectation collapsing immediately after a confident setup"
+        ],
+        "timing": "Play the sting after the disappointing result, under a short reaction hold.",
+        "avoid_when": [
+          "Avoid a sustained sad montage that needs a musical bed, or a genuine emotional setback."
+        ],
+        "example": "An enormous gift box opens to reveal a single paper clip.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "spotlight-sound-effect",
@@ -1574,7 +2360,7 @@
         "notification",
         "punctuation"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/spotlight-sound-effect.mp3",
       "audio_path": "assets/originals/spotlight-sound-effect.mp3",
       "original_sha256": "3bd1b52a7aea2446497d9b53f1b3282513d6b223446a1d75a4a966f134cea51c",
@@ -1596,7 +2382,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A staged attention or reveal cue",
+        "use_when": [
+          "A pretend stage spotlight revealing a subject",
+          "A dramatic focus change or talent-show entrance"
+        ],
+        "timing": "Audition the file to locate the useful cue, then align it with the light turning on or the subject being revealed.",
+        "avoid_when": [
+          "Avoid assuming it is a single switch click, or using a long theatrical cue for a small UI highlight."
+        ],
+        "example": "A dark frame brightens around the only person who forgot the dress code.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "tape-rewind-sound-effect",
@@ -1608,7 +2411,7 @@
         "movement",
         "transition"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/tape-rewind-sound-effect.mp4",
       "audio_path": "assets/audio/tape-rewind-sound-effect.wav",
       "original_sha256": "ce5e7cbcaf996065fa6f19327a888b59cb9761d72cdb2ff3cfbe55ea672c2e67",
@@ -1630,7 +2433,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A rewind, undo, or 'back up' transition",
+        "use_when": [
+          "Returning to an earlier moment",
+          "Correcting the story before showing what actually happened"
+        ],
+        "timing": "Begin with reverse motion or a rewind graphic, then stop cleanly at the restored scene.",
+        "avoid_when": [
+          "Avoid using it for a forward time jump unless the reversal joke is explicit."
+        ],
+        "example": "A failed stunt reverses to the takeoff before the safer version is shown.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "tutorial-music-meme",
@@ -1642,7 +2462,7 @@
         "music",
         "sting"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/tutorial-music-meme.mp3",
       "audio_path": "assets/originals/tutorial-music-meme.mp3",
       "original_sha256": "65e4e1782f0f08c256d2e981095e167e7d390b0ded90fa662a33ab90ec1f5b62",
@@ -1664,7 +2484,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A deliberately simple or ironic how-to segment",
+        "use_when": [
+          "A quick instructional montage with a playful tone",
+          "An overconfident explanation of an absurd method"
+        ],
+        "timing": "Use the phrase beneath a short sequence of steps, keeping narration intelligible and ending with the segment.",
+        "avoid_when": [
+          "Avoid serious safety instructions or jokes that make a real step ambiguous."
+        ],
+        "example": "A solemn three-step guide demonstrates how to put a spoon in a drawer.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "tv-turn-on-effect",
@@ -1676,7 +2513,7 @@
         "movement",
         "transition"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/tv-turn-on-effect.mp3",
       "audio_path": "assets/originals/tv-turn-on-effect.mp3",
       "original_sha256": "53dc7def972f1cb0e1422954027b1307fcc06d7b9f6a31270090c89878365f6f",
@@ -1698,7 +2535,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A television-style start or channel reveal",
+        "use_when": [
+          "Opening a framed 'broadcast' segment",
+          "Switching into a retro screen or faux channel"
+        ],
+        "timing": "Align the cue with the screen lighting up, then transition into the content's own audio.",
+        "avoid_when": [
+          "Avoid random scene cuts without a screen or broadcast motif."
+        ],
+        "example": "A black TV frame flickers on to reveal a mock news bulletin.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "typewriter-sound-effect-hd",
@@ -1710,7 +2564,7 @@
         "notification",
         "punctuation"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/typewriter-sound-effect-hd.mp3",
       "audio_path": "assets/originals/typewriter-sound-effect-hd.mp3",
       "original_sha256": "5ce191bfaed85fdecd43a0fef944a4623f43a0c51f5efcd0b34442c7dab9422f",
@@ -1732,7 +2586,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A typed title or written reveal",
+        "use_when": [
+          "Letters appearing one at a time",
+          "A dossier, letter, or old-fashioned narration card"
+        ],
+        "timing": "Match the typing rhythm to the text reveal; use only as many keystrokes as the animation needs.",
+        "avoid_when": [
+          "Avoid letting keys continue after the text stops or treating it as modern computer ambience."
+        ],
+        "example": "A date and location type onto a paper-textured title card.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "typing-on-keyboard-sound-effect",
@@ -1744,7 +2615,7 @@
         "notification",
         "punctuation"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/typing-on-keyboard-sound-effect.mp3",
       "audio_path": "assets/originals/typing-on-keyboard-sound-effect.mp3",
       "original_sha256": "6ba44c870282c3e2a7d79ab7afd13f458437bc2c568e6871389e829053870982",
@@ -1766,7 +2637,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Computer work or a frantic typing sequence",
+        "use_when": [
+          "A coding, research, or message-composition montage",
+          "A brief 'working on it' insert"
+        ],
+        "timing": "Start and stop with visible typing; use a quiet excerpt beneath narration and avoid impossible keypress timing in close-ups.",
+        "avoid_when": [
+          "Avoid implying exact keystrokes match a close-up when they do not, or leaving typing under an idle screen."
+        ],
+        "example": "A cursor races across a draft while a deadline timer counts down.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "ultra-instinct-opening-theme-sound-effect-hd",
@@ -1780,7 +2668,7 @@
         "reveal",
         "sting"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/ultra-instinct-opening-theme-sound-effect-hd.mp3",
       "audio_path": "assets/originals/ultra-instinct-opening-theme-sound-effect-hd.mp3",
       "original_sha256": "869d09bae214d9b862f3f3868bcacd487a4804b79978b0bd9c93a3eea0967ce1",
@@ -1802,7 +2690,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An exaggerated power-up or sudden mastery",
+        "use_when": [
+          "A character entering a mock serious mode",
+          "A skill reveal after an underdog setup"
+        ],
+        "timing": "Use a short musical buildup toward the transformation, then place the reveal on a strong musical moment.",
+        "avoid_when": [
+          "Avoid ordinary minor actions unless the exaggerated mismatch is the joke, and avoid masking narration."
+        ],
+        "example": "A struggling cook ties an apron and suddenly performs an expertly edited chopping montage.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "underwater-sound-effect-in-high-quality",
@@ -1814,7 +2719,7 @@
         "background",
         "pause"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/underwater-sound-effect-in-high-quality.mp3",
       "audio_path": "assets/originals/underwater-sound-effect-in-high-quality.mp3",
       "original_sha256": "3b1513dcecc312feda0a6d425ac88839f989b875d60509d75198115e3272f9e1",
@@ -1836,7 +2741,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An underwater environment or muffled perspective",
+        "use_when": [
+          "A shot that submerges beneath water",
+          "A deliberately dreamlike underwater insert"
+        ],
+        "timing": "Fade in with the submerged perspective and fade out on surfacing; choose a section long enough to cover the shot.",
+        "avoid_when": [
+          "Avoid using it to represent a dry room or assuming the recording is a seamless loop."
+        ],
+        "example": "A camera dips below a pool's surface and the scene shifts to a muffled perspective.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "vacuum-cleaner-sound-effect",
@@ -1848,7 +2770,7 @@
         "background",
         "pause"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/vacuum-cleaner-sound-effect.mp3",
       "audio_path": "assets/originals/vacuum-cleaner-sound-effect.mp3",
       "original_sha256": "f01e0c43e0222d71f0f7bb2f2538201afd67170237cb947b41a277a248255de4",
@@ -1870,7 +2792,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A cleaning action or comic noisy interruption",
+        "use_when": [
+          "A household cleaning montage",
+          "A vacuum interrupting an otherwise quiet scene"
+        ],
+        "timing": "Start with the appliance turning on or entering the shot, and stop with the action; reduce it around speech.",
+        "avoid_when": [
+          "Avoid implying a specific appliance was recorded on location or running it beneath an entire explanation."
+        ],
+        "example": "A quiet monologue cuts to a roommate enthusiastically vacuuming nearby.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "vanish-sound-effect",
@@ -1882,7 +2821,7 @@
         "movement",
         "transition"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/vanish-sound-effect.mp3",
       "audio_path": "assets/originals/vanish-sound-effect.mp3",
       "original_sha256": "faf56edfd7c552f952aa56c7bac734bd4716700446e36113bf2a9faec115bdda",
@@ -1904,7 +2843,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A sudden disappearance or magical removal",
+        "use_when": [
+          "A person or object disappearing through a cut",
+          "Removing an item from an animation"
+        ],
+        "timing": "Align the useful accent with the disappearance frame and trim the tail to suit the next beat.",
+        "avoid_when": [
+          "Avoid unrelated camera moves where a directional whoosh would be clearer."
+        ],
+        "example": "A pile of dishes disappears as the edit cuts to the same empty counter.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "vhs-pause-sound-in-out",
@@ -1919,7 +2875,7 @@
         "silence",
         "transition"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/vhs-pause-sound-in-out.mp3",
       "audio_path": "assets/originals/vhs-pause-sound-in-out.mp3",
       "original_sha256": "82587d7746ea753b559cb60bb9964aa7e1fb4ed790d28ae364ea6d746817a10a",
@@ -1941,7 +2897,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A retro playback interruption or freeze",
+        "use_when": [
+          "Pausing a faux tape to comment on a detail",
+          "Entering and leaving a VHS-style freeze-frame"
+        ],
+        "timing": "Locate the pause and resume sections separately and place them at the respective transitions; do not play the whole file over one freeze.",
+        "avoid_when": [
+          "Avoid treating this long in-and-out clip as a single pause click or adding it without a retro playback motif."
+        ],
+        "example": "A home-video scene freezes so an arrow can point out an unnoticed background detail, then resumes.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "vine-boom-sound-effect-longer-verison-for-real",
@@ -1953,7 +2926,7 @@
         "hit",
         "impact"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/vine-boom-sound-effect-longer-verison-for-real.mp3",
       "audio_path": "assets/originals/vine-boom-sound-effect-longer-verison-for-real.mp3",
       "original_sha256": "21498c496889a763e8f418aebaab28322b62311d30bfe54e2fe092d619272fa1",
@@ -1975,7 +2948,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A dramatic comic realization or punchline",
+        "use_when": [
+          "A sudden suspicious detail",
+          "A deadpan reaction zoom or absurd statement"
+        ],
+        "timing": "Align the main impact with the reaction cut or highlighted word; leave a short pause afterward for the joke.",
+        "avoid_when": [
+          "Avoid repeated booms on every sentence or low-end buildup that hides dialogue."
+        ],
+        "example": "A confident character notices the camera has been recording the entire mistake.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "walmart-sound-effects",
@@ -1987,7 +2977,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/walmart-sound-effects.mp3",
       "audio_path": "assets/originals/walmart-sound-effects.mp3",
       "original_sha256": "c7793b34d1a1937da38137c03add31cf2069248b1b4475192fb4eef94b20ea05",
@@ -2009,7 +2999,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A retail-themed or intentionally mundane meme insert",
+        "use_when": [
+          "An everyday shopping cutaway with a playful tone",
+          "A deliberately unglamorous location reveal"
+        ],
+        "timing": "Audition first because the filename does not establish the cue's contents; choose a short section that fits the aisle or store reveal.",
+        "avoid_when": [
+          "Avoid assuming it is a particular announcement, voice, or checkout beep without listening."
+        ],
+        "example": "A grand vacation introduction cuts to a routine supermarket trip.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "what-the-hell-oh-my-god-no-way-sound-effect",
@@ -2022,7 +3029,7 @@
         "reaction",
         "surprise"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/what-the-hell-oh-my-god-no-way-sound-effect.mp3",
       "audio_path": "assets/originals/what-the-hell-oh-my-god-no-way-sound-effect.mp3",
       "original_sha256": "110ce0fbe28081e89bab5a164a08224d00ea18b3a23167137a59b065b5b754c6",
@@ -2044,7 +3051,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A drawn-out disbelief reaction",
+        "use_when": [
+          "An implausible result that needs more than a quick double take",
+          "A comic sequence of increasingly surprising details"
+        ],
+        "timing": "Reveal the result first, then allow the spoken reaction room to build before the next line.",
+        "avoid_when": [
+          "Avoid fast cuts that chop the phrase into fragments or edits that require clean language."
+        ],
+        "example": "A tiny box opens to reveal an unexpectedly large nested object.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "whoop-sound-effect",
@@ -2056,7 +3080,7 @@
         "movement",
         "transition"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/whoop-sound-effect.mp3",
       "audio_path": "assets/originals/whoop-sound-effect.mp3",
       "original_sha256": "c14ad7d286c3cb4f426f1f4b83e25f42fca36d0a63d4ad30eb83f258d3c64682",
@@ -2078,7 +3102,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A playful movement or reaction accent",
+        "use_when": [
+          "A bouncy entrance or quick visual gag",
+          "A comic gesture that needs a light vocal or tonal accent"
+        ],
+        "timing": "Audition the recording for the useful gesture before choosing a short excerpt; align it to the motion's turning point.",
+        "avoid_when": [
+          "Avoid assuming the eight-second file contains only one short whoop or using it as a realistic physical impact."
+        ],
+        "example": "A sticker character pops into frame, overshoots, and bounces into position.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "whoosh-sound-effect-hd-no-copyright",
@@ -2090,7 +3131,7 @@
         "movement",
         "transition"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/whoosh-sound-effect-hd-no-copyright.mp3",
       "audio_path": "assets/originals/whoosh-sound-effect-hd-no-copyright.mp3",
       "original_sha256": "e20a1bd015986c3729e5f42e9ce285ae317804b4625c7f3bf231dfd44d1c513a",
@@ -2112,7 +3153,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A short, clean movement transition",
+        "use_when": [
+          "A quick slide, swipe, or whip cut",
+          "A small title or graphic entering frame"
+        ],
+        "timing": "Place the brief sweep across the movement so its emphasis lands near the cut or final position.",
+        "avoid_when": [
+          "Avoid using a short sweep as a sustained ambience bed or adding it to static dialogue cuts."
+        ],
+        "example": "A chapter title slides in as the edit moves to the next topic.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "wilhelm-scream-sound",
@@ -2126,7 +3184,7 @@
         "scream",
         "tension"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/wilhelm-scream-sound.mp3",
       "audio_path": "assets/originals/wilhelm-scream-sound.mp3",
       "original_sha256": "a0c35a117ae699c3d858b96f154f13ee61329302e8b0b1cbdce73674af628196",
@@ -2148,7 +3206,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A deliberately theatrical slapstick scream",
+        "use_when": [
+          "A fictional character falling away in a stylized scene",
+          "An obvious homage in a playful action edit"
+        ],
+        "timing": "Match the scream to the fall or off-screen exit and select the portion that fits the action.",
+        "avoid_when": [
+          "Avoid real injury or distress, or a serious dramatic scene that would be undermined by a recognizable stock scream."
+        ],
+        "example": "A toy stunt figure tumbles out of frame during an intentionally silly miniature chase.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "windows-disconnect-sound",
@@ -2160,7 +3235,7 @@
         "notification",
         "punctuation"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/windows-disconnect-sound.mp3",
       "audio_path": "assets/originals/windows-disconnect-sound.mp3",
       "original_sha256": "897ef2e49bb85bf06c8c36a74cdda62433d8f4c622ab2a9b061dcaa93bd93fdb",
@@ -2182,7 +3257,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A comic disconnection or sudden mental shutdown",
+        "use_when": [
+          "A device unplugging in a tech edit",
+          "A person visibly losing their train of thought"
+        ],
+        "timing": "Place the alert at the disconnect or blank-stare cut, then allow a short silence.",
+        "avoid_when": [
+          "Avoid implying a real system error in an accurate software tutorial when no disconnect occurred."
+        ],
+        "example": "A presenter forgets the next word and stares silently at the camera.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "worlds-smallest-violin-free-sound-effect-hd-violin",
@@ -2197,7 +3289,7 @@
         "sad",
         "sting"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/worlds-smallest-violin-free-sound-effect-hd-violin.mp3",
       "audio_path": "assets/originals/worlds-smallest-violin-free-sound-effect-hd-violin.mp3",
       "original_sha256": "7bf801ad7235d654fa7811f91c4c602e810ce28536f241452b4aa5658beb0c48",
@@ -2219,7 +3311,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "Mock sympathy for a minor complaint",
+        "use_when": [
+          "An exaggerated complaint about a trivial inconvenience",
+          "A playful 'poor me' reaction"
+        ],
+        "timing": "Let the complaint finish, then place a short musical response under the reaction shot.",
+        "avoid_when": [
+          "Avoid genuine hardship, grief, or vulnerability where mock sympathy would be cruel."
+        ],
+        "example": "Someone complains that their snack bowl is only almost full.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "wrong-buzzer-sound-effect",
@@ -2231,7 +3340,7 @@
         "notification",
         "punctuation"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/wrong-buzzer-sound-effect.mp3",
       "audio_path": "assets/originals/wrong-buzzer-sound-effect.mp3",
       "original_sha256": "f8ce251b1b18200f358cd06c3b95823c5913f6ae6747275ce68589d1c6ffe9df",
@@ -2253,7 +3362,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A clear incorrect-answer or failed-choice cue",
+        "use_when": [
+          "A quiz answer being rejected",
+          "A wrong selection or unsuccessful attempt in a playful tutorial"
+        ],
+        "timing": "Start as the answer is marked wrong or the failure becomes visible; stop before the correction is spoken.",
+        "avoid_when": [
+          "Avoid revealing the answer before the audience has had time to decide or masking the explanation of the error."
+        ],
+        "example": "A multiple-choice answer turns red, followed by the correct solution.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "yeet-sound-effect",
@@ -2265,7 +3391,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/yeet-sound-effect.mp3",
       "audio_path": "assets/originals/yeet-sound-effect.mp3",
       "original_sha256": "18fc07aa6d04ef3392bd400c181b4e37f34edee015c3f01718e87c2525b14926",
@@ -2287,7 +3413,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An enthusiastic throw or forceful discard",
+        "use_when": [
+          "A harmless object being tossed out of frame",
+          "A playful removal of an unwanted item"
+        ],
+        "timing": "Align the vocal accent with the release frame and let the action finish before the next beat.",
+        "avoid_when": [
+          "Avoid real dangerous throwing or using it for a gentle placement."
+        ],
+        "example": "An unwanted draft is represented by a paper ball tossed into a bin.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "youre-my-friend-now-original-sound-effects-by-santut-sound-effects",
@@ -2299,7 +3442,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/youre-my-friend-now-original-sound-effects-by-santut-sound-effects.mp3",
       "audio_path": "assets/originals/youre-my-friend-now-original-sound-effects-by-santut-sound-effects.mp3",
       "original_sha256": "896f6b392f3294ef518ef151a1bbe6d198aaf3339136a781105ed3e4b0a55854",
@@ -2321,7 +3464,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An immediate playful attachment",
+        "use_when": [
+          "A person enthusiastically adopting a mascot or object",
+          "A quick friendship or team-up reveal"
+        ],
+        "timing": "Start the line when the new companion is picked up or introduced; preserve the complete phrase.",
+        "avoid_when": [
+          "Avoid implying a real person consented to a relationship or interrupting a sincere introduction."
+        ],
+        "example": "A creator finds a tiny desk plant and immediately gives it a name tag.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "zelda-get-item-sound-effect",
@@ -2334,7 +3494,7 @@
         "reaction",
         "success"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/zelda-get-item-sound-effect.mp3",
       "audio_path": "assets/originals/zelda-get-item-sound-effect.mp3",
       "original_sha256": "d7e49bab5237792bbcd47c9806e67540397c6ed7f313314c8ce8c235f71bd81a",
@@ -2356,7 +3516,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A game-style reward or item acquisition",
+        "use_when": [
+          "Receiving a collectible or completing an unlock",
+          "Holding up a recovered object as a mock prize"
+        ],
+        "timing": "Align the fanfare with the item reveal and allow enough of the musical resolution before resuming dialogue.",
+        "avoid_when": [
+          "Avoid using it for a failed search or cutting the reward sting before it resolves."
+        ],
+        "example": "A lost USB drive is held overhead as an inventory card appears.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "leave-me-alone-akira-meme-green-screen",
@@ -2368,7 +3545,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/leave-me-alone-akira-meme-green-screen.mp3",
       "audio_path": "assets/originals/leave-me-alone-akira-meme-green-screen.mp3",
       "original_sha256": "591b4e54ded988805fd8ed98e243924f56ed636ccef0bebfaab2a6416e6cfbb3",
@@ -2390,7 +3567,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "An exaggerated overwhelmed or escape reaction",
+        "use_when": [
+          "A character besieged by harmless notifications",
+          "An absurd pursuit or repeated interruption"
+        ],
+        "timing": "Place the vocal reaction after the interruptions accumulate, leaving space for the line and any loud tail.",
+        "avoid_when": [
+          "Avoid genuine harassment or distress footage and avoid layering it over other dialogue."
+        ],
+        "example": "A relaxed character is surrounded by animated reminder bubbles and flees the frame.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "oh-my-god-bruh-oh-hell-naw-man-wtf-audio",
@@ -2404,7 +3598,7 @@
         "reaction",
         "surprise"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/oh-my-god-bruh-oh-hell-naw-man-wtf-audio.mp3",
       "audio_path": "assets/originals/oh-my-god-bruh-oh-hell-naw-man-wtf-audio.mp3",
       "original_sha256": "9bdc18bb28a3f31990d0254f48777f26515287c0824498463f467e997ca06479",
@@ -2426,7 +3620,24 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A sustained exasperated rejection",
+        "use_when": [
+          "A frustrating result that deserves a longer reaction",
+          "A reveal that becomes more absurd as the shot continues"
+        ],
+        "timing": "Let the result register, then choose a complete spoken segment that matches the reaction shot's length.",
+        "avoid_when": [
+          "Avoid using the entire clip for a split-second gag, or edits requiring clean language."
+        ],
+        "example": "A neatly planned desk setup is revealed to have every cable in the wrong port.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     },
     {
       "id": "well-im-out-of-here",
@@ -2438,7 +3649,7 @@
         "meme",
         "reaction"
       ],
-      "annotation_basis": "filename; not auditioned",
+      "annotation_basis": "filename-derived tags and editorial usage recommendations; not auditioned",
       "original_path": "assets/originals/well-im-out-of-here.mp3",
       "audio_path": "assets/originals/well-im-out-of-here.mp3",
       "original_sha256": "7c40f8062b9b2b261dceb3a7a2438d821f7cdfddc5f44703ffe9197f3313cbf0",
@@ -2460,7 +3671,30 @@
       "license_status": "unverified",
       "license": null,
       "author": null,
-      "source_url": null
+      "source_url": null,
+      "usage": {
+        "intent": "A resigned decision to leave",
+        "use_when": [
+          "A character opting out after a strange reveal",
+          "A quick exit at the end of an escalating joke"
+        ],
+        "timing": "Begin the departure line once the reason to leave is visible, then cut on the exit or phrase ending.",
+        "avoid_when": [
+          "Avoid a heartfelt farewell or using it before the viewer understands why the character leaves."
+        ],
+        "example": "A person opens the door to an overwhelming pile of chores, pauses, and turns around.",
+        "basis": "editorial recommendation inferred from filename; audition required"
+      },
+      "audio_review": {
+        "status": "not_reviewed",
+        "reason": "Audio-analysis credits exhausted before review; audible content remains unconfirmed."
+      }
     }
-  ]
+  ],
+  "usage_guidance_count": 71,
+  "audio_review_summary": {
+    "automated": 7,
+    "not_reviewed": 64,
+    "limitation": "Automated audio-analysis credits were exhausted. Unreviewed entries are filename-based recommendations, not verified audio descriptions."
+  }
 }
