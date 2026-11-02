@@ -1,5 +1,7 @@
 # FUN SFX: when to use each sound
 
+> **Sound ownership:** The FUN SFX maintainer does not own any of the bundled sounds. All rights remain with their respective owners. MIT covers code and documentation only; audio permissions remain unverified.
+
 71 individual guides for 71 recordings. Each recommendation describes an editing choice, not a mandatory use.
 
 ## How to read this guide

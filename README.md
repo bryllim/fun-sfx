@@ -2,6 +2,11 @@
 
 **Sound effects for videos edited with agents.**
 
+> **Sound ownership:** The FUN SFX maintainer does not own any of the bundled
+> sounds. All rights remain with their respective owners. The MIT license covers
+> only this project's code and documentation, not the sounds. Audio permissions
+> remain unverified.
+
 A portable agent skill with 71 supplied recordings, a searchable catalog, and
 small tools for finding and preparing audio cues. Works with any agent that can
 read `SKILL.md`, run Python, and pass audio files to an editing tool.

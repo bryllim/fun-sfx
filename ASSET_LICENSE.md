@@ -1,5 +1,9 @@
 # Recording rights
 
+**The FUN SFX maintainer does not own any of the bundled sounds. All rights
+remain with their respective owners.** This project collects and organizes
+the recordings and does not claim authorship or ownership of them.
+
 The MIT license covers FUN SFX code and documentation only. It does **not**
 grant rights to the audio/video recordings under `assets/`, including WAV
 audio extracted from MP4 files.

@@ -27,6 +27,8 @@ Use the user's existing video editor or editing tools to place the prepared cue.
 
 ## Rights and integrity
 
+The FUN SFX maintainer does not own any of the bundled sounds. All rights remain with their respective owners. Preserve this ownership notice when presenting or packaging the sound collection.
+
 Code and documentation are MIT licensed. Bundled recordings and extracted audio have **unverified rights** and are excluded from that license; see [ASSET_LICENSE.md](ASSET_LICENSE.md). Do not describe the recordings as MIT, royalty-free, or cleared for redistribution. A filename containing “no copyright” is not license evidence. Preserve this distinction when handing off an edit or packaging this skill.
 
 Run `python3 <skill-root>/scripts/sfx.py verify` when checking a download or modified pack. `catalog.json` holds portable paths, technical metadata, and SHA-256 checksums for every original and usable audio file.

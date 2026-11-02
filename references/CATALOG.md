@@ -1,5 +1,7 @@
 # FUN SFX catalog
 
+> **Sound ownership:** The FUN SFX maintainer does not own any of the bundled sounds. All rights remain with their respective owners. MIT covers code and documentation only; audio permissions remain unverified.
+
 71 recordings; 71 individual editing guides; 7 automated audio reviews.
 
 All recording rights are unverified. Read [the use-case guide](USE_CASES.md) for when to use each sound, timing, situations to avoid, and an example edit.
