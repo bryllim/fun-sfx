@@ -1,0 +1,4 @@
+interface:
+  display_name: "FUN SFX"
+  short_description: "Find and prepare sound effects for agent video edits"
+  default_prompt: "Use $fun-sfx to find and prepare sound effects for my video edit."

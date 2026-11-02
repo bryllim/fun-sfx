@@ -26,3 +26,10 @@ python3 scripts/sfx.py verify
 `catalog.json` stores file paths, duration, format, tags, and checksums.
 The importer builds a new pack from a source folder without overwriting an
 existing collection. The renderer regenerates readable catalog documents.
+
+## Agent skill
+
+Keep this folder together and copy it to your agent's skills directory as
+`fun-sfx`. In Codex, use `~/.codex/skills/fun-sfx` or the skills directory in
+your customized CODEX_HOME. Read `SKILL.md` for discovery and editing guidance.
+See `references/editing.md` for cue-sheet fields and video mixing recipes.
