@@ -11,3 +11,18 @@ recordings are excluded from MIT. See [ASSET_LICENSE.md](ASSET_LICENSE.md).
 The pack includes all 71 supplied recordings under `assets/originals/`.
 Original bytes are preserved with portable filenames. Audio from the two MP4s
 is also available as stereo 48 kHz WAV under `assets/audio/`.
+
+## Tools
+
+Use Python 3.10+ to search or verify the catalog. Export also needs FFmpeg.
+
+```sh
+python3 scripts/sfx.py search whoosh
+python3 scripts/sfx.py show tape-rewind-sound-effect
+python3 scripts/sfx.py export tape-rewind-sound-effect output/rewind.wav --duration 0.5
+python3 scripts/sfx.py verify
+```
+
+`catalog.json` stores file paths, duration, format, tags, and checksums.
+The importer builds a new pack from a source folder without overwriting an
+existing collection. The renderer regenerates readable catalog documents.

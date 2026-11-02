@@ -1,0 +1,2466 @@
+{
+  "schema_version": 1,
+  "name": "FUN SFX",
+  "source_collection": "Mini SFX Pack - JOWS",
+  "annotation_basis": "filename; not auditioned",
+  "asset_license_status": "unverified",
+  "count": 71,
+  "sounds": [
+    {
+      "id": "8-cinematic-whoosh-sound-effect",
+      "title": "8 Cinematic Whoosh - @Sound Effect",
+      "original_filename": "8 Cinematic Whoosh - @Sound Effect.mp3",
+      "category": "transition",
+      "tags": [
+        "cut",
+        "movement",
+        "transition"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/8-cinematic-whoosh-sound-effect.mp3",
+      "audio_path": "assets/originals/8-cinematic-whoosh-sound-effect.mp3",
+      "original_sha256": "de53bb971cc4618008e16882e7996d779e69b7e637ca1239f85ae436132fc0c5",
+      "audio_sha256": "de53bb971cc4618008e16882e7996d779e69b7e637ca1239f85ae436132fc0c5",
+      "original": {
+        "duration_seconds": 24.2155,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 968758
+      },
+      "audio": {
+        "duration_seconds": 24.2155,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 968758
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "sfm-what-the-fuck-is-a-kilometer",
+      "title": "[SFM] WHAT THE FUCK IS A KILOMETER",
+      "original_filename": "[SFM] WHAT THE FUCK IS A KILOMETER.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "explicit-language-likely",
+        "meme",
+        "reaction",
+        "surprise"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/sfm-what-the-fuck-is-a-kilometer.mp3",
+      "audio_path": "assets/originals/sfm-what-the-fuck-is-a-kilometer.mp3",
+      "original_sha256": "a25cb4eaaa2cf5f543119deab89a9f595526765f6ae379e7bee884ef3cc8ef33",
+      "audio_sha256": "a25cb4eaaa2cf5f543119deab89a9f595526765f6ae379e7bee884ef3cc8ef33",
+      "original": {
+        "duration_seconds": 5.093875,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 203892
+      },
+      "audio": {
+        "duration_seconds": 5.093875,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 203892
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "original-yep-thats-me-youre-probably-wondering",
+      "title": "_ORIGINAL_ Yep, Thats Me Youre Probably Wondering...",
+      "original_filename": "_ORIGINAL_ Yep, Thats Me Youre Probably Wondering....mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/original-yep-thats-me-youre-probably-wondering.mp3",
+      "audio_path": "assets/originals/original-yep-thats-me-youre-probably-wondering.mp3",
+      "original_sha256": "b046dfabb00f326ef4e9c9d4c8acb82c6e46844d6a5c1850815f3a25249762cf",
+      "audio_sha256": "b046dfabb00f326ef4e9c9d4c8acb82c6e46844d6a5c1850815f3a25249762cf",
+      "original": {
+        "duration_seconds": 7.1053,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 284350
+      },
+      "audio": {
+        "duration_seconds": 7.1053,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 284350
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "snore-mimimimimimimi-sound-effect-cartoon-sleeping-sound-effect",
+      "title": "_Snore_ Mimimimimimimi Sound Effect (Cartoon Sleeping Sound Effect)",
+      "original_filename": "_Snore_ Mimimimimimimi Sound Effect (Cartoon Sleeping Sound Effect).mp3",
+      "category": "ambience",
+      "tags": [
+        "ambience",
+        "background",
+        "pause"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/snore-mimimimimimimi-sound-effect-cartoon-sleeping-sound-effect.mp3",
+      "audio_path": "assets/originals/snore-mimimimimimimi-sound-effect-cartoon-sleeping-sound-effect.mp3",
+      "original_sha256": "b80e27ad14c7d55444e6ef57660cd65f57b691ff9e2473576f81673eded570ff",
+      "audio_sha256": "b80e27ad14c7d55444e6ef57660cd65f57b691ff9e2473576f81673eded570ff",
+      "original": {
+        "duration_seconds": 5.694675,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 227925
+      },
+      "audio": {
+        "duration_seconds": 5.694675,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 227925
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "ah-shit-here-we-go-again",
+      "title": "ah shit here we go again",
+      "original_filename": "ah shit here we go again.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "explicit-language-likely",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/ah-shit-here-we-go-again.mp3",
+      "audio_path": "assets/originals/ah-shit-here-we-go-again.mp3",
+      "original_sha256": "277e5039ee01b9e3345eed1530621b6b5866a3bb74303faae61fddade6af64df",
+      "audio_sha256": "277e5039ee01b9e3345eed1530621b6b5866a3bb74303faae61fddade6af64df",
+      "original": {
+        "duration_seconds": 2.847325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 114030
+      },
+      "audio": {
+        "duration_seconds": 2.847325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 114030
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "alarm-sound-effect",
+      "title": "Alarm Sound Effect",
+      "original_filename": "Alarm Sound Effect.mp3",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "notification",
+        "punctuation"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/alarm-sound-effect.mp3",
+      "audio_path": "assets/originals/alarm-sound-effect.mp3",
+      "original_sha256": "59bb2e64d91ce6a8893dbc105c3aec19dad62c3b7f32f4d95f8c0c2ab58b5e9a",
+      "audio_sha256": "59bb2e64d91ce6a8893dbc105c3aec19dad62c3b7f32f4d95f8c0c2ab58b5e9a",
+      "original": {
+        "duration_seconds": 5.36381,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 240869
+      },
+      "audio": {
+        "duration_seconds": 5.36381,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 240869
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "anime-wow-sound-effect-free-to-use",
+      "title": "Anime wow - sound effect (free to use)",
+      "original_filename": "Anime wow - sound effect (free to use).mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction",
+        "surprise"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/anime-wow-sound-effect-free-to-use.mp3",
+      "audio_path": "assets/originals/anime-wow-sound-effect-free-to-use.mp3",
+      "original_sha256": "663a3b907240bd76480c4decf8db2c34decbee4e75d99230eb6253a4b9a85efb",
+      "audio_sha256": "663a3b907240bd76480c4decf8db2c34decbee4e75d99230eb6253a4b9a85efb",
+      "original": {
+        "duration_seconds": 3.996725,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 160007
+      },
+      "audio": {
+        "duration_seconds": 3.996725,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 160007
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "applause-crowd-cheering-sound-effect",
+      "title": "Applause crowd cheering sound effect",
+      "original_filename": "Applause crowd cheering sound effect.mp3",
+      "category": "ambience",
+      "tags": [
+        "ambience",
+        "background",
+        "celebration",
+        "pause",
+        "success"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/applause-crowd-cheering-sound-effect.mp3",
+      "audio_path": "assets/originals/applause-crowd-cheering-sound-effect.mp3",
+      "original_sha256": "0e360155a51e78eb89a8ae7f98d0c0242e0ad5e180092799989692ab76f6a39e",
+      "audio_sha256": "0e360155a51e78eb89a8ae7f98d0c0242e0ad5e180092799989692ab76f6a39e",
+      "original": {
+        "duration_seconds": 3.709375,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 148512
+      },
+      "audio": {
+        "duration_seconds": 3.709375,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 148512
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "awkward-cricket-sound-effect",
+      "title": "Awkward Cricket Sound Effect",
+      "original_filename": "Awkward Cricket Sound Effect.mp3",
+      "category": "ambience",
+      "tags": [
+        "ambience",
+        "awkward",
+        "background",
+        "comedy",
+        "pause",
+        "silence"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/awkward-cricket-sound-effect.mp3",
+      "audio_path": "assets/originals/awkward-cricket-sound-effect.mp3",
+      "original_sha256": "89ed7e5eb7f3e1fcbb19b7e42f76b2a4eea8f004d3b6f6dd837f338b6ef29a76",
+      "audio_sha256": "89ed7e5eb7f3e1fcbb19b7e42f76b2a4eea8f004d3b6f6dd837f338b6ef29a76",
+      "original": {
+        "duration_seconds": 4.466925,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 178815
+      },
+      "audio": {
+        "duration_seconds": 4.466925,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 178815
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "awkward-pause-anime-sounds-sound-effects-for-editing",
+      "title": "Awkward Pause (Anime Sounds) - Sound Effects for editing",
+      "original_filename": "Awkward Pause (Anime Sounds) - Sound Effects for editing.mp3",
+      "category": "reaction",
+      "tags": [
+        "awkward",
+        "comedy",
+        "meme",
+        "reaction",
+        "silence"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/awkward-pause-anime-sounds-sound-effects-for-editing.mp3",
+      "audio_path": "assets/originals/awkward-pause-anime-sounds-sound-effects-for-editing.mp3",
+      "original_sha256": "dee2fbaf5fe763c52d7a81191d2f2e1d16f3f71728b269e052b22819f1ee908b",
+      "audio_sha256": "dee2fbaf5fe763c52d7a81191d2f2e1d16f3f71728b269e052b22819f1ee908b",
+      "original": {
+        "duration_seconds": 9.37795,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 375256
+      },
+      "audio": {
+        "duration_seconds": 9.37795,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 375256
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "bamboo-hit-sound-effect-hd",
+      "title": "Bamboo Hit - Sound Effect (HD)",
+      "original_filename": "Bamboo Hit - Sound Effect (HD).mp3",
+      "category": "impact",
+      "tags": [
+        "emphasis",
+        "hit",
+        "impact"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/bamboo-hit-sound-effect-hd.mp3",
+      "audio_path": "assets/originals/bamboo-hit-sound-effect-hd.mp3",
+      "original_sha256": "ae6416cd07a23607327c38f896d29288ec98f43f9c861eaf16c2df374078c510",
+      "audio_sha256": "ae6416cd07a23607327c38f896d29288ec98f43f9c861eaf16c2df374078c510",
+      "original": {
+        "duration_seconds": 1.724075,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 69101
+      },
+      "audio": {
+        "duration_seconds": 1.724075,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 69101
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "bass-boost-sound-effect",
+      "title": "Bass Boost sound effect",
+      "original_filename": "Bass Boost sound effect.mp3",
+      "category": "impact",
+      "tags": [
+        "emphasis",
+        "hit",
+        "impact"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/bass-boost-sound-effect.mp3",
+      "audio_path": "assets/originals/bass-boost-sound-effect.mp3",
+      "original_sha256": "526863fa0a8de36f5b56e4114b7527dc116131c05970ea0606e83a63035a0a36",
+      "audio_sha256": "526863fa0a8de36f5b56e4114b7527dc116131c05970ea0606e83a63035a0a36",
+      "original": {
+        "duration_seconds": 3.3959,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 135974
+      },
+      "audio": {
+        "duration_seconds": 3.3959,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 135974
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "bye-have-a-great-time-meme-sound-sound-effect-for-editing",
+      "title": "Bye have a great Time (Meme Sound) - Sound Effect for editing",
+      "original_filename": "Bye have a great Time (Meme Sound) - Sound Effect for editing.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/bye-have-a-great-time-meme-sound-sound-effect-for-editing.mp3",
+      "audio_path": "assets/originals/bye-have-a-great-time-meme-sound-sound-effect-for-editing.mp3",
+      "original_sha256": "1fa88f3c02ddf35ada26ffa7d5da6fb3f27c885f713741feef1f61b69755ffbf",
+      "audio_sha256": "1fa88f3c02ddf35ada26ffa7d5da6fb3f27c885f713741feef1f61b69755ffbf",
+      "original": {
+        "duration_seconds": 1.724075,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 69101
+      },
+      "audio": {
+        "duration_seconds": 1.724075,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 69101
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "camera-flash-sound-effect",
+      "title": "Camera flash sound effect",
+      "original_filename": "Camera flash sound effect.mp3",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "notification",
+        "punctuation"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/camera-flash-sound-effect.mp3",
+      "audio_path": "assets/originals/camera-flash-sound-effect.mp3",
+      "original_sha256": "48da4f4cdf72e75964bcfbf4a8bf8debd70e05967f15ca8599f54dab146d0f2a",
+      "audio_sha256": "48da4f4cdf72e75964bcfbf4a8bf8debd70e05967f15ca8599f54dab146d0f2a",
+      "original": {
+        "duration_seconds": 1.93305,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 77459
+      },
+      "audio": {
+        "duration_seconds": 1.93305,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 77459
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "camera-shutter-sound-effect",
+      "title": "Camera Shutter Sound Effect",
+      "original_filename": "Camera Shutter Sound Effect.mp3",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "notification",
+        "punctuation"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/camera-shutter-sound-effect.mp3",
+      "audio_path": "assets/originals/camera-shutter-sound-effect.mp3",
+      "original_sha256": "b224237b5c850ac76c82673638a484e98a14244eb3973a0a2310a72a958bd28b",
+      "audio_sha256": "b224237b5c850ac76c82673638a484e98a14244eb3973a0a2310a72a958bd28b",
+      "original": {
+        "duration_seconds": 0.88815,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 35664
+      },
+      "audio": {
+        "duration_seconds": 0.88815,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 35664
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "cartoon-falling-sound-effect",
+      "title": "cartoon falling sound effect",
+      "original_filename": "cartoon falling sound effect.mp3",
+      "category": "impact",
+      "tags": [
+        "emphasis",
+        "hit",
+        "impact"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/cartoon-falling-sound-effect.mp3",
+      "audio_path": "assets/originals/cartoon-falling-sound-effect.mp3",
+      "original_sha256": "5058c2b5771bc18adbcca264ed260f7cd2df7421e07b7290005f8aee5cbe8137",
+      "audio_sha256": "5058c2b5771bc18adbcca264ed260f7cd2df7421e07b7290005f8aee5cbe8137",
+      "original": {
+        "duration_seconds": 1.12325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 45068
+      },
+      "audio": {
+        "duration_seconds": 1.12325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 45068
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "cr1tikal-yeah-baby",
+      "title": "cr1tikal Yeah Baby",
+      "original_filename": "cr1tikal Yeah Baby.mp3",
+      "category": "reaction",
+      "tags": [
+        "celebration",
+        "comedy",
+        "meme",
+        "reaction",
+        "success"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/cr1tikal-yeah-baby.mp3",
+      "audio_path": "assets/originals/cr1tikal-yeah-baby.mp3",
+      "original_sha256": "8d2c3624c415c162008292632dc0f61907e1af08ffa5852b5b5d3a9095f89681",
+      "audio_sha256": "8d2c3624c415c162008292632dc0f61907e1af08ffa5852b5b5d3a9095f89681",
+      "original": {
+        "duration_seconds": 7.2359,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 289573
+      },
+      "audio": {
+        "duration_seconds": 7.2359,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 289573
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "damn-boi-he-thicc-meme-sound-sound-effect-for-editing",
+      "title": "daMN BOI HE THICC (Meme Sound) - Sound Effect for Editing",
+      "original_filename": "daMN BOI HE THICC (Meme Sound) - Sound Effect for Editing.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/damn-boi-he-thicc-meme-sound-sound-effect-for-editing.mp3",
+      "audio_path": "assets/originals/damn-boi-he-thicc-meme-sound-sound-effect-for-editing.mp3",
+      "original_sha256": "20605d340c4afadeb4224b1387c53278fe1591d8523c34c55874df1d66cb9552",
+      "audio_sha256": "20605d340c4afadeb4224b1387c53278fe1591d8523c34c55874df1d66cb9552",
+      "original": {
+        "duration_seconds": 12.04245,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 481836
+      },
+      "audio": {
+        "duration_seconds": 12.04245,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 481836
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "ding-sound-effect-free-download",
+      "title": "Ding Sound Effect ( Free Download )",
+      "original_filename": "Ding Sound Effect ( Free Download ).mp3",
+      "category": "interface",
+      "tags": [
+        "celebration",
+        "interface",
+        "notification",
+        "punctuation",
+        "success"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/ding-sound-effect-free-download.mp3",
+      "audio_path": "assets/originals/ding-sound-effect-free-download.mp3",
+      "original_sha256": "18e25340b7cd3be1f49945c25c7cc06666ef4072ac7fb4f9d04b09c972b2015f",
+      "audio_sha256": "18e25340b7cd3be1f49945c25c7cc06666ef4072ac7fb4f9d04b09c972b2015f",
+      "original": {
+        "duration_seconds": 3.004075,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 120301
+      },
+      "audio": {
+        "duration_seconds": 3.004075,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 120301
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "emu-otori",
+      "title": "Emu Otori",
+      "original_filename": "Emu Otori.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/emu-otori.mp3",
+      "audio_path": "assets/originals/emu-otori.mp3",
+      "original_sha256": "79e9db80e1241231beff385c8bfa0429d510df813ee00f2056872eb462d96e5c",
+      "audio_sha256": "79e9db80e1241231beff385c8bfa0429d510df813ee00f2056872eb462d96e5c",
+      "original": {
+        "duration_seconds": 6.6351,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 265542
+      },
+      "audio": {
+        "duration_seconds": 6.6351,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 265542
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "enemy-spotted-sound-effect",
+      "title": "Enemy Spotted sound effect",
+      "original_filename": "Enemy Spotted sound effect.mp3",
+      "category": "game",
+      "tags": [
+        "game",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/enemy-spotted-sound-effect.mp3",
+      "audio_path": "assets/originals/enemy-spotted-sound-effect.mp3",
+      "original_sha256": "d5acb25812d8a672ace98e61a0ebad3811c30ec16ebae2f6798be13dd7519bb7",
+      "audio_sha256": "d5acb25812d8a672ace98e61a0ebad3811c30ec16ebae2f6798be13dd7519bb7",
+      "original": {
+        "duration_seconds": 1.671825,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 67011
+      },
+      "audio": {
+        "duration_seconds": 1.671825,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 67011
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "epic-choir-meme-sound-effect-hd-1",
+      "title": "Epic Choir - MEME Sound Effect (HD) (1)",
+      "original_filename": "Epic Choir - MEME Sound Effect (HD) (1).mp3",
+      "category": "music",
+      "tags": [
+        "epic",
+        "mood",
+        "music",
+        "reveal",
+        "sting"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/epic-choir-meme-sound-effect-hd-1.mp3",
+      "audio_path": "assets/originals/epic-choir-meme-sound-effect-hd-1.mp3",
+      "original_sha256": "6602fd33655cf7f866b6992f77312777a5684910b75aff4ec039fb8a012ce567",
+      "audio_sha256": "6602fd33655cf7f866b6992f77312777a5684910b75aff4ec039fb8a012ce567",
+      "original": {
+        "duration_seconds": 3.10855,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 124480
+      },
+      "audio": {
+        "duration_seconds": 3.10855,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 124480
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "faah-sound-effect",
+      "title": "Faah sound effect",
+      "original_filename": "Faah sound effect.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction",
+        "surprise"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/faah-sound-effect.mp3",
+      "audio_path": "assets/originals/faah-sound-effect.mp3",
+      "original_sha256": "86ffe45893b68921dc0f74cdb816b2366c36f6a2d3ba34dfc64e77c23713acbb",
+      "audio_sha256": "86ffe45893b68921dc0f74cdb816b2366c36f6a2d3ba34dfc64e77c23713acbb",
+      "original": {
+        "duration_seconds": 2.020136,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 50292
+      },
+      "audio": {
+        "duration_seconds": 2.020136,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 50292
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "five-nights-at-freddys-1-power-runs-out-jumpscare-warning",
+      "title": "Five Nights at Freddys 1 Power Runs Out (Jumpscare Warning)",
+      "original_filename": "Five Nights at Freddys 1 Power Runs Out (Jumpscare Warning).mp3",
+      "category": "game",
+      "tags": [
+        "game",
+        "reaction",
+        "scream",
+        "tension"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/five-nights-at-freddys-1-power-runs-out-jumpscare-warning.mp3",
+      "audio_path": "assets/originals/five-nights-at-freddys-1-power-runs-out-jumpscare-warning.mp3",
+      "original_sha256": "369b886ca3ac9a1784b8f4ba3ea8351b30b1e5037768915cd81fa17497567361",
+      "audio_sha256": "369b886ca3ac9a1784b8f4ba3ea8351b30b1e5037768915cd81fa17497567361",
+      "original": {
+        "duration_seconds": 70.24325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 2809868
+      },
+      "audio": {
+        "duration_seconds": 70.24325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 2809868
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "fortnite-chest-sound-effect",
+      "title": "Fortnite Chest - Sound Effect",
+      "original_filename": "Fortnite Chest - Sound Effect.mp3",
+      "category": "game",
+      "tags": [
+        "game",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/fortnite-chest-sound-effect.mp3",
+      "audio_path": "assets/originals/fortnite-chest-sound-effect.mp3",
+      "original_sha256": "cd37b3cb480718c18f1a2f152627a6fe8bc7a227a46e147afd9a4dc95932356a",
+      "audio_sha256": "cd37b3cb480718c18f1a2f152627a6fe8bc7a227a46e147afd9a4dc95932356a",
+      "original": {
+        "duration_seconds": 10.55345,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 422276
+      },
+      "audio": {
+        "duration_seconds": 10.55345,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 422276
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "fortnite-teamate-down-sound-effect",
+      "title": "Fortnite Teamate Down Sound Effect",
+      "original_filename": "Fortnite Teamate Down Sound Effect.mp3",
+      "category": "game",
+      "tags": [
+        "game",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/fortnite-teamate-down-sound-effect.mp3",
+      "audio_path": "assets/originals/fortnite-teamate-down-sound-effect.mp3",
+      "original_sha256": "d587887ff88410b2317d4dfc703a196a8fde06ec85b6f67d973124e81147eb5e",
+      "audio_sha256": "d587887ff88410b2317d4dfc703a196a8fde06ec85b6f67d973124e81147eb5e",
+      "original": {
+        "duration_seconds": 1.0449,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 41933
+      },
+      "audio": {
+        "duration_seconds": 1.0449,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 41933
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "goofy-ahh-song",
+      "title": "goofy ahh song",
+      "original_filename": "goofy ahh song.mp3",
+      "category": "music",
+      "tags": [
+        "mood",
+        "music",
+        "sting"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/goofy-ahh-song.mp3",
+      "audio_path": "assets/originals/goofy-ahh-song.mp3",
+      "original_sha256": "9472ad9f772294145013d73755fab0330fee5647138af4cb518d230a3722864f",
+      "audio_sha256": "9472ad9f772294145013d73755fab0330fee5647138af4cb518d230a3722864f",
+      "original": {
+        "duration_seconds": 70.086525,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 2803599
+      },
+      "audio": {
+        "duration_seconds": 70.086525,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 2803599
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "guy-screams-and-disappears-sound-effect-hd",
+      "title": "Guy screams (and disappears) sound effect HD",
+      "original_filename": "Guy screams (and disappears) sound effect HD.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction",
+        "scream",
+        "tension"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/guy-screams-and-disappears-sound-effect-hd.mp3",
+      "audio_path": "assets/originals/guy-screams-and-disappears-sound-effect-hd.mp3",
+      "original_sha256": "c0ea9a1598905b981bfe10316a90c08997569f503310da01c5d0fbe12d1c6b45",
+      "audio_sha256": "c0ea9a1598905b981bfe10316a90c08997569f503310da01c5d0fbe12d1c6b45",
+      "original": {
+        "duration_seconds": 2.951825,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 118211
+      },
+      "audio": {
+        "duration_seconds": 2.951825,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 118211
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "hd-fortnite-drink-shield-potion-sound-effect",
+      "title": "HD - Fortnite Drink Shield Potion Sound Effect",
+      "original_filename": "HD - Fortnite Drink Shield Potion Sound Effect.mp3",
+      "category": "game",
+      "tags": [
+        "game",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/hd-fortnite-drink-shield-potion-sound-effect.mp3",
+      "audio_path": "assets/originals/hd-fortnite-drink-shield-potion-sound-effect.mp3",
+      "original_sha256": "c953887ec3d30246c4225255c30cb4d0b47609bd7dfc2b3a8e4456217177151e",
+      "audio_sha256": "c953887ec3d30246c4225255c30cb4d0b47609bd7dfc2b3a8e4456217177151e",
+      "original": {
+        "duration_seconds": 7.941225,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 317787
+      },
+      "audio": {
+        "duration_seconds": 7.941225,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 317787
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "heavens-choir-sound-effect",
+      "title": "Heavens Choir Sound Effect",
+      "original_filename": "Heavens Choir Sound Effect.mp3",
+      "category": "music",
+      "tags": [
+        "epic",
+        "mood",
+        "music",
+        "reveal",
+        "sting"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/heavens-choir-sound-effect.mp3",
+      "audio_path": "assets/originals/heavens-choir-sound-effect.mp3",
+      "original_sha256": "e74a84d652cad418457032dc9eacf21fff89de56893340a3dc85338fb7a5da70",
+      "audio_sha256": "e74a84d652cad418457032dc9eacf21fff89de56893340a3dc85338fb7a5da70",
+      "original": {
+        "duration_seconds": 18.0506,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 722162
+      },
+      "audio": {
+        "duration_seconds": 18.0506,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 722162
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "help-me-meme-sound-effect",
+      "title": "Help Me Meme  Sound Effect",
+      "original_filename": "Help Me Meme  Sound Effect.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction",
+        "scream",
+        "tension"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/help-me-meme-sound-effect.mp3",
+      "audio_path": "assets/originals/help-me-meme-sound-effect.mp3",
+      "original_sha256": "4744a6b3ecf56414dc84f6caf21344a69493391d422f9e20290db127ca9bb704",
+      "audio_sha256": "4744a6b3ecf56414dc84f6caf21344a69493391d422f9e20290db127ca9bb704",
+      "original": {
+        "duration_seconds": 4.49305,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 179860
+      },
+      "audio": {
+        "duration_seconds": 4.49305,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 179860
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "huh-sound-effect",
+      "title": "Huh Sound Effect",
+      "original_filename": "Huh Sound Effect.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction",
+        "surprise"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/huh-sound-effect.mp3",
+      "audio_path": "assets/originals/huh-sound-effect.mp3",
+      "original_sha256": "4a01f3743bd9b441447d1900966ce8bdb27011f34066d9383773023b944ad7b8",
+      "audio_sha256": "4a01f3743bd9b441447d1900966ce8bdb27011f34066d9383773023b944ad7b8",
+      "original": {
+        "duration_seconds": 1.201625,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 48203
+      },
+      "audio": {
+        "duration_seconds": 1.201625,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 48203
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "illuminati-confirmed-the-x-files-theme-sound-effect-hd",
+      "title": "ILLUMINATI CONFIRMED (The X-Files Theme) - Sound Effect (HD)",
+      "original_filename": "ILLUMINATI CONFIRMED (The X-Files Theme) - Sound Effect (HD).mp3",
+      "category": "music",
+      "tags": [
+        "mood",
+        "music",
+        "sting"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/illuminati-confirmed-the-x-files-theme-sound-effect-hd.mp3",
+      "audio_path": "assets/originals/illuminati-confirmed-the-x-files-theme-sound-effect-hd.mp3",
+      "original_sha256": "b4182fb1f08864b8ddddcb78cb1db033f0a0b3b9d79d257ccfbaf7ae4a945e18",
+      "audio_sha256": "b4182fb1f08864b8ddddcb78cb1db033f0a0b3b9d79d257ccfbaf7ae4a945e18",
+      "original": {
+        "duration_seconds": 15.000091,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 619385
+      },
+      "audio": {
+        "duration_seconds": 15.000091,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 619385
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "it-was-at-this-moment-that-he-knew-he-f-cked-up-sound-effect-no-copyright",
+      "title": "It was at this moment that he knew he f_cked up sound effect no copyright",
+      "original_filename": "It was at this moment that he knew he f_cked up sound effect no copyright.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "explicit-language-likely",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/it-was-at-this-moment-that-he-knew-he-f-cked-up-sound-effect-no-copyright.mp3",
+      "audio_path": "assets/originals/it-was-at-this-moment-that-he-knew-he-f-cked-up-sound-effect-no-copyright.mp3",
+      "original_sha256": "293f3c81be5bf2840c54053228690fe616ca5b30346b3d70d05ebe622bda2b2a",
+      "audio_sha256": "293f3c81be5bf2840c54053228690fe616ca5b30346b3d70d05ebe622bda2b2a",
+      "original": {
+        "duration_seconds": 3.578775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 143289
+      },
+      "audio": {
+        "duration_seconds": 3.578775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 143289
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "japanese-yoooo-sound",
+      "title": "Japanese Yoooo Sound",
+      "original_filename": "Japanese Yoooo Sound.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction",
+        "surprise"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/japanese-yoooo-sound.mp3",
+      "audio_path": "assets/originals/japanese-yoooo-sound.mp3",
+      "original_sha256": "f04ce21746f43db12e2dec7682dc180d8e3002da7f4a504fa84c35e7cf79190b",
+      "audio_sha256": "f04ce21746f43db12e2dec7682dc180d8e3002da7f4a504fa84c35e7cf79190b",
+      "original": {
+        "duration_seconds": 3.134675,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 125525
+      },
+      "audio": {
+        "duration_seconds": 3.134675,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 125525
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "love-sound-effect",
+      "title": "Love sound effect",
+      "original_filename": "Love sound effect.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/love-sound-effect.mp3",
+      "audio_path": "assets/originals/love-sound-effect.mp3",
+      "original_sha256": "d572691f7921b4295faadc5f20cec2f72fb6121948e78b9ac40374a88e7fb27a",
+      "audio_sha256": "d572691f7921b4295faadc5f20cec2f72fb6121948e78b9ac40374a88e7fb27a",
+      "original": {
+        "duration_seconds": 1.7502,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 70146
+      },
+      "audio": {
+        "duration_seconds": 1.7502,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 70146
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "minecraft-death-sound-effect",
+      "title": "Minecraft Death Sound Effect",
+      "original_filename": "Minecraft Death Sound Effect.mp3",
+      "category": "game",
+      "tags": [
+        "game",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/minecraft-death-sound-effect.mp3",
+      "audio_path": "assets/originals/minecraft-death-sound-effect.mp3",
+      "original_sha256": "d5275b058ff715dcb534893feaf86a3bdd0ce3708cea752c46d2e177e284e7c8",
+      "audio_sha256": "d5275b058ff715dcb534893feaf86a3bdd0ce3708cea752c46d2e177e284e7c8",
+      "original": {
+        "duration_seconds": 1.59345,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 63876
+      },
+      "audio": {
+        "duration_seconds": 1.59345,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 63876
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "money-money-money-sound-effect-hd",
+      "title": "Money Money Money! - Sound Effect HD",
+      "original_filename": "Money Money Money! - Sound Effect HD.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/money-money-money-sound-effect-hd.mp3",
+      "audio_path": "assets/originals/money-money-money-sound-effect-hd.mp3",
+      "original_sha256": "f94c88e9ad9c06c723fec93b9de8e75cf83faf69981e9a224885a511f44335d2",
+      "audio_sha256": "f94c88e9ad9c06c723fec93b9de8e75cf83faf69981e9a224885a511f44335d2",
+      "original": {
+        "duration_seconds": 9.7959,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 391973
+      },
+      "audio": {
+        "duration_seconds": 9.7959,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 391973
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "muda-muda-muda-sound-effect",
+      "title": "muda muda muda sound effect",
+      "original_filename": "muda muda muda sound effect.mp3",
+      "category": "impact",
+      "tags": [
+        "emphasis",
+        "hit",
+        "impact"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/muda-muda-muda-sound-effect.mp3",
+      "audio_path": "assets/originals/muda-muda-muda-sound-effect.mp3",
+      "original_sha256": "44129600d92ca8d8823d1d8bcdfb91f55c25b701337f7399f056a4568674944b",
+      "audio_sha256": "44129600d92ca8d8823d1d8bcdfb91f55c25b701337f7399f056a4568674944b",
+      "original": {
+        "duration_seconds": 5.041625,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 201802
+      },
+      "audio": {
+        "duration_seconds": 5.041625,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 201802
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "objection-sound-effect",
+      "title": "Objection! - Sound Effect",
+      "original_filename": "Objection! - Sound Effect.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/objection-sound-effect.mp3",
+      "audio_path": "assets/originals/objection-sound-effect.mp3",
+      "original_sha256": "6ecc54cd8de41e4b9f616e349b0144f32f1db2c3a63be1d9202a4c7f1ff5de93",
+      "audio_sha256": "6ecc54cd8de41e4b9f616e349b0144f32f1db2c3a63be1d9202a4c7f1ff5de93",
+      "original": {
+        "duration_seconds": 1.6457,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 65965
+      },
+      "audio": {
+        "duration_seconds": 1.6457,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 65965
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "pokeball-opening-sound-fx",
+      "title": "pokeball opening sound FX",
+      "original_filename": "pokeball opening sound FX.mp3",
+      "category": "game",
+      "tags": [
+        "game",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/pokeball-opening-sound-fx.mp3",
+      "audio_path": "assets/originals/pokeball-opening-sound-fx.mp3",
+      "original_sha256": "bdc65bd32ba7ae8967628ef3039baea1c73d74580cb347bf5fb4563e47c5f2ea",
+      "audio_sha256": "bdc65bd32ba7ae8967628ef3039baea1c73d74580cb347bf5fb4563e47c5f2ea",
+      "original": {
+        "duration_seconds": 5.06775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 202848
+      },
+      "audio": {
+        "duration_seconds": 5.06775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 202848
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "sad-harmonica-sound-effect-piano-man-sfx",
+      "title": "Sad Harmonica Sound Effect - Piano Man (SFX)",
+      "original_filename": "Sad Harmonica Sound Effect - Piano Man (SFX).mp3",
+      "category": "music",
+      "tags": [
+        "disappointment",
+        "fail",
+        "mood",
+        "music",
+        "sad",
+        "sting"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/sad-harmonica-sound-effect-piano-man-sfx.mp3",
+      "audio_path": "assets/originals/sad-harmonica-sound-effect-piano-man-sfx.mp3",
+      "original_sha256": "69e179e5a2361148d21ea2f750d436a424171773688905ac4ad07c43324e2347",
+      "audio_sha256": "69e179e5a2361148d21ea2f750d436a424171773688905ac4ad07c43324e2347",
+      "original": {
+        "duration_seconds": 15.650249,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 377554
+      },
+      "audio": {
+        "duration_seconds": 15.650249,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 377554
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "sexy-sax-sound-effect",
+      "title": "Sexy Sax Sound effect",
+      "original_filename": "Sexy Sax Sound effect.mp4",
+      "category": "music",
+      "tags": [
+        "mood",
+        "music",
+        "sting"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/sexy-sax-sound-effect.mp4",
+      "audio_path": "assets/audio/sexy-sax-sound-effect.wav",
+      "original_sha256": "7bbec10593f3325d30b54bbbe2752e0f0f9d436fc0fc50c274aa0e30cffd2124",
+      "audio_sha256": "628e82d1b5d91d6227e03479cdd9e8f6191021808ccf455fe99ae7112475d90f",
+      "original": {
+        "duration_seconds": 9.264762,
+        "codec": "aac",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 123985
+      },
+      "audio": {
+        "duration_seconds": 9.264771,
+        "codec": "pcm_s16le",
+        "sample_rate_hz": 48000,
+        "channels": 2,
+        "size_bytes": 1778914
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "splat-sound-effects-no-copyright",
+      "title": "splat sound effects (no copyright)",
+      "original_filename": "splat sound effects (no copyright).mp3",
+      "category": "impact",
+      "tags": [
+        "emphasis",
+        "hit",
+        "impact"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/splat-sound-effects-no-copyright.mp3",
+      "audio_path": "assets/originals/splat-sound-effects-no-copyright.mp3",
+      "original_sha256": "6f0b357e10d2662cdc15b82887281ac999ec3902873e184d96bd71a856aa1fac",
+      "audio_sha256": "6f0b357e10d2662cdc15b82887281ac999ec3902873e184d96bd71a856aa1fac",
+      "original": {
+        "duration_seconds": 0.99265,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 39844
+      },
+      "audio": {
+        "duration_seconds": 0.99265,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 39844
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "spongebob-disappointed-sound-steel-sting",
+      "title": "Spongebob disappointed sound (Steel Sting)",
+      "original_filename": "Spongebob disappointed sound (Steel Sting).mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "disappointment",
+        "fail",
+        "meme",
+        "reaction",
+        "sad"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/spongebob-disappointed-sound-steel-sting.mp3",
+      "audio_path": "assets/originals/spongebob-disappointed-sound-steel-sting.mp3",
+      "original_sha256": "64d299e3962b3d2606c590da9ec296b505acf1f8db32a6e4dd8ca53512edbe3a",
+      "audio_sha256": "64d299e3962b3d2606c590da9ec296b505acf1f8db32a6e4dd8ca53512edbe3a",
+      "original": {
+        "duration_seconds": 4.2057,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 168365
+      },
+      "audio": {
+        "duration_seconds": 4.2057,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 168365
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "spotlight-sound-effect",
+      "title": "spotlight sound effect",
+      "original_filename": "spotlight sound effect.mp3",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "notification",
+        "punctuation"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/spotlight-sound-effect.mp3",
+      "audio_path": "assets/originals/spotlight-sound-effect.mp3",
+      "original_sha256": "3bd1b52a7aea2446497d9b53f1b3282513d6b223446a1d75a4a966f134cea51c",
+      "audio_sha256": "3bd1b52a7aea2446497d9b53f1b3282513d6b223446a1d75a4a966f134cea51c",
+      "original": {
+        "duration_seconds": 6.321625,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 253002
+      },
+      "audio": {
+        "duration_seconds": 6.321625,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 253002
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "tape-rewind-sound-effect",
+      "title": "Tape rewind sound effect",
+      "original_filename": "Tape rewind sound effect.mp4",
+      "category": "transition",
+      "tags": [
+        "cut",
+        "movement",
+        "transition"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/tape-rewind-sound-effect.mp4",
+      "audio_path": "assets/audio/tape-rewind-sound-effect.wav",
+      "original_sha256": "ce5e7cbcaf996065fa6f19327a888b59cb9761d72cdb2ff3cfbe55ea672c2e67",
+      "audio_sha256": "2c431d60cd6c9f3afef956f17f20e59dda836b028d9e816f0278a0ec61005f5e",
+      "original": {
+        "duration_seconds": 1.834376,
+        "codec": "aac",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 39442
+      },
+      "audio": {
+        "duration_seconds": 1.834396,
+        "codec": "pcm_s16le",
+        "sample_rate_hz": 48000,
+        "channels": 2,
+        "size_bytes": 352282
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "tutorial-music-meme",
+      "title": "Tutorial Music Meme",
+      "original_filename": "Tutorial Music Meme.mp3",
+      "category": "music",
+      "tags": [
+        "mood",
+        "music",
+        "sting"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/tutorial-music-meme.mp3",
+      "audio_path": "assets/originals/tutorial-music-meme.mp3",
+      "original_sha256": "65e4e1782f0f08c256d2e981095e167e7d390b0ded90fa662a33ab90ec1f5b62",
+      "audio_sha256": "65e4e1782f0f08c256d2e981095e167e7d390b0ded90fa662a33ab90ec1f5b62",
+      "original": {
+        "duration_seconds": 5.172225,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 207026
+      },
+      "audio": {
+        "duration_seconds": 5.172225,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 207026
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "tv-turn-on-effect",
+      "title": "TV turn ON effect",
+      "original_filename": "TV turn ON effect.mp3",
+      "category": "transition",
+      "tags": [
+        "cut",
+        "movement",
+        "transition"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/tv-turn-on-effect.mp3",
+      "audio_path": "assets/originals/tv-turn-on-effect.mp3",
+      "original_sha256": "53dc7def972f1cb0e1422954027b1307fcc06d7b9f6a31270090c89878365f6f",
+      "audio_sha256": "53dc7def972f1cb0e1422954027b1307fcc06d7b9f6a31270090c89878365f6f",
+      "original": {
+        "duration_seconds": 3.578775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 143288
+      },
+      "audio": {
+        "duration_seconds": 3.578775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 143288
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "typewriter-sound-effect-hd",
+      "title": "Typewriter  Sound Effect [HD]",
+      "original_filename": "Typewriter  Sound Effect [HD].mp3",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "notification",
+        "punctuation"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/typewriter-sound-effect-hd.mp3",
+      "audio_path": "assets/originals/typewriter-sound-effect-hd.mp3",
+      "original_sha256": "5ce191bfaed85fdecd43a0fef944a4623f43a0c51f5efcd0b34442c7dab9422f",
+      "audio_sha256": "5ce191bfaed85fdecd43a0fef944a4623f43a0c51f5efcd0b34442c7dab9422f",
+      "original": {
+        "duration_seconds": 3.944475,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 157917
+      },
+      "audio": {
+        "duration_seconds": 3.944475,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 157917
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "typing-on-keyboard-sound-effect",
+      "title": "TYPING ON KEYBOARD SOUND EFFECT",
+      "original_filename": "TYPING ON KEYBOARD SOUND EFFECT.mp3",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "notification",
+        "punctuation"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/typing-on-keyboard-sound-effect.mp3",
+      "audio_path": "assets/originals/typing-on-keyboard-sound-effect.mp3",
+      "original_sha256": "6ba44c870282c3e2a7d79ab7afd13f458437bc2c568e6871389e829053870982",
+      "audio_sha256": "6ba44c870282c3e2a7d79ab7afd13f458437bc2c568e6871389e829053870982",
+      "original": {
+        "duration_seconds": 8.80325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 352268
+      },
+      "audio": {
+        "duration_seconds": 8.80325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 352268
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "ultra-instinct-opening-theme-sound-effect-hd",
+      "title": "Ultra Instinct Opening Theme - Sound Effect (HD)",
+      "original_filename": "Ultra Instinct Opening Theme - Sound Effect (HD).mp3",
+      "category": "music",
+      "tags": [
+        "epic",
+        "mood",
+        "music",
+        "reveal",
+        "sting"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/ultra-instinct-opening-theme-sound-effect-hd.mp3",
+      "audio_path": "assets/originals/ultra-instinct-opening-theme-sound-effect-hd.mp3",
+      "original_sha256": "869d09bae214d9b862f3f3868bcacd487a4804b79978b0bd9c93a3eea0967ce1",
+      "audio_sha256": "869d09bae214d9b862f3f3868bcacd487a4804b79978b0bd9c93a3eea0967ce1",
+      "original": {
+        "duration_seconds": 12.591,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 503778
+      },
+      "audio": {
+        "duration_seconds": 12.591,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 503778
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "underwater-sound-effect-in-high-quality",
+      "title": "UNDERWATER SOUND EFFECT IN HIGH QUALITY",
+      "original_filename": "UNDERWATER SOUND EFFECT IN HIGH QUALITY.mp3",
+      "category": "ambience",
+      "tags": [
+        "ambience",
+        "background",
+        "pause"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/underwater-sound-effect-in-high-quality.mp3",
+      "audio_path": "assets/originals/underwater-sound-effect-in-high-quality.mp3",
+      "original_sha256": "3b1513dcecc312feda0a6d425ac88839f989b875d60509d75198115e3272f9e1",
+      "audio_sha256": "3b1513dcecc312feda0a6d425ac88839f989b875d60509d75198115e3272f9e1",
+      "original": {
+        "duration_seconds": 22.7004,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 908154
+      },
+      "audio": {
+        "duration_seconds": 22.7004,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 908154
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "vacuum-cleaner-sound-effect",
+      "title": "Vacuum Cleaner Sound Effect",
+      "original_filename": "Vacuum Cleaner Sound Effect.mp3",
+      "category": "ambience",
+      "tags": [
+        "ambience",
+        "background",
+        "pause"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/vacuum-cleaner-sound-effect.mp3",
+      "audio_path": "assets/originals/vacuum-cleaner-sound-effect.mp3",
+      "original_sha256": "f01e0c43e0222d71f0f7bb2f2538201afd67170237cb947b41a277a248255de4",
+      "audio_sha256": "f01e0c43e0222d71f0f7bb2f2538201afd67170237cb947b41a277a248255de4",
+      "original": {
+        "duration_seconds": 8.698775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 348089
+      },
+      "audio": {
+        "duration_seconds": 8.698775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 348089
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "vanish-sound-effect",
+      "title": "Vanish Sound Effect",
+      "original_filename": "Vanish Sound Effect.mp3",
+      "category": "transition",
+      "tags": [
+        "cut",
+        "movement",
+        "transition"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/vanish-sound-effect.mp3",
+      "audio_path": "assets/originals/vanish-sound-effect.mp3",
+      "original_sha256": "faf56edfd7c552f952aa56c7bac734bd4716700446e36113bf2a9faec115bdda",
+      "audio_sha256": "faf56edfd7c552f952aa56c7bac734bd4716700446e36113bf2a9faec115bdda",
+      "original": {
+        "duration_seconds": 2.847325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 114031
+      },
+      "audio": {
+        "duration_seconds": 2.847325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 114031
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "vhs-pause-sound-in-out",
+      "title": "VHS Pause (Sound + In & Out)",
+      "original_filename": "VHS Pause (Sound + In & Out).mp3",
+      "category": "transition",
+      "tags": [
+        "awkward",
+        "comedy",
+        "cut",
+        "movement",
+        "silence",
+        "transition"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/vhs-pause-sound-in-out.mp3",
+      "audio_path": "assets/originals/vhs-pause-sound-in-out.mp3",
+      "original_sha256": "82587d7746ea753b559cb60bb9964aa7e1fb4ed790d28ae364ea6d746817a10a",
+      "audio_sha256": "82587d7746ea753b559cb60bb9964aa7e1fb4ed790d28ae364ea6d746817a10a",
+      "original": {
+        "duration_seconds": 18.23345,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 729475
+      },
+      "audio": {
+        "duration_seconds": 18.23345,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 729475
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "vine-boom-sound-effect-longer-verison-for-real",
+      "title": "Vine Boom Sound Effect (Longer Verison For Real)",
+      "original_filename": "Vine Boom Sound Effect (Longer Verison For Real).mp3",
+      "category": "impact",
+      "tags": [
+        "emphasis",
+        "hit",
+        "impact"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/vine-boom-sound-effect-longer-verison-for-real.mp3",
+      "audio_path": "assets/originals/vine-boom-sound-effect-longer-verison-for-real.mp3",
+      "original_sha256": "21498c496889a763e8f418aebaab28322b62311d30bfe54e2fe092d619272fa1",
+      "audio_sha256": "21498c496889a763e8f418aebaab28322b62311d30bfe54e2fe092d619272fa1",
+      "original": {
+        "duration_seconds": 3.134675,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 125525
+      },
+      "audio": {
+        "duration_seconds": 3.134675,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 125525
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "walmart-sound-effects",
+      "title": "Walmart sound effects",
+      "original_filename": "Walmart sound effects.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/walmart-sound-effects.mp3",
+      "audio_path": "assets/originals/walmart-sound-effects.mp3",
+      "original_sha256": "c7793b34d1a1937da38137c03add31cf2069248b1b4475192fb4eef94b20ea05",
+      "audio_sha256": "c7793b34d1a1937da38137c03add31cf2069248b1b4475192fb4eef94b20ea05",
+      "original": {
+        "duration_seconds": 8.96,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 358537
+      },
+      "audio": {
+        "duration_seconds": 8.96,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 358537
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "what-the-hell-oh-my-god-no-way-sound-effect",
+      "title": "What the hell Oh my God no Way Sound Effect",
+      "original_filename": "What the hell Oh my God no Way Sound Effect.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction",
+        "surprise"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/what-the-hell-oh-my-god-no-way-sound-effect.mp3",
+      "audio_path": "assets/originals/what-the-hell-oh-my-god-no-way-sound-effect.mp3",
+      "original_sha256": "110ce0fbe28081e89bab5a164a08224d00ea18b3a23167137a59b065b5b754c6",
+      "audio_sha256": "110ce0fbe28081e89bab5a164a08224d00ea18b3a23167137a59b065b5b754c6",
+      "original": {
+        "duration_seconds": 7.75835,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 310472
+      },
+      "audio": {
+        "duration_seconds": 7.75835,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 310472
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "whoop-sound-effect",
+      "title": "Whoop Sound Effect",
+      "original_filename": "Whoop Sound Effect.mp3",
+      "category": "transition",
+      "tags": [
+        "cut",
+        "movement",
+        "transition"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/whoop-sound-effect.mp3",
+      "audio_path": "assets/originals/whoop-sound-effect.mp3",
+      "original_sha256": "c14ad7d286c3cb4f426f1f4b83e25f42fca36d0a63d4ad30eb83f258d3c64682",
+      "audio_sha256": "c14ad7d286c3cb4f426f1f4b83e25f42fca36d0a63d4ad30eb83f258d3c64682",
+      "original": {
+        "duration_seconds": 8.09795,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 324056
+      },
+      "audio": {
+        "duration_seconds": 8.09795,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 324056
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "whoosh-sound-effect-hd-no-copyright",
+      "title": "Whoosh Sound Effect HD  No Copyright",
+      "original_filename": "Whoosh Sound Effect HD  No Copyright.mp3",
+      "category": "transition",
+      "tags": [
+        "cut",
+        "movement",
+        "transition"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/whoosh-sound-effect-hd-no-copyright.mp3",
+      "audio_path": "assets/originals/whoosh-sound-effect-hd-no-copyright.mp3",
+      "original_sha256": "e20a1bd015986c3729e5f42e9ce285ae317804b4625c7f3bf231dfd44d1c513a",
+      "audio_sha256": "e20a1bd015986c3729e5f42e9ce285ae317804b4625c7f3bf231dfd44d1c513a",
+      "original": {
+        "duration_seconds": 0.679175,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 27305
+      },
+      "audio": {
+        "duration_seconds": 0.679175,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 27305
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "wilhelm-scream-sound",
+      "title": "Wilhelm scream Sound",
+      "original_filename": "Wilhelm scream Sound.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction",
+        "scream",
+        "tension"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/wilhelm-scream-sound.mp3",
+      "audio_path": "assets/originals/wilhelm-scream-sound.mp3",
+      "original_sha256": "a0c35a117ae699c3d858b96f154f13ee61329302e8b0b1cbdce73674af628196",
+      "audio_sha256": "a0c35a117ae699c3d858b96f154f13ee61329302e8b0b1cbdce73674af628196",
+      "original": {
+        "duration_seconds": 4.127325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 165231
+      },
+      "audio": {
+        "duration_seconds": 4.127325,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 165231
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "windows-disconnect-sound",
+      "title": "Windows Disconnect Sound",
+      "original_filename": "Windows Disconnect Sound.mp3",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "notification",
+        "punctuation"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/windows-disconnect-sound.mp3",
+      "audio_path": "assets/originals/windows-disconnect-sound.mp3",
+      "original_sha256": "897ef2e49bb85bf06c8c36a74cdda62433d8f4c622ab2a9b061dcaa93bd93fdb",
+      "audio_sha256": "897ef2e49bb85bf06c8c36a74cdda62433d8f4c622ab2a9b061dcaa93bd93fdb",
+      "original": {
+        "duration_seconds": 1.5151,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 60742
+      },
+      "audio": {
+        "duration_seconds": 1.5151,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 60742
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "worlds-smallest-violin-free-sound-effect-hd-violin",
+      "title": "Worlds Smallest Violin (free sound effect HD) #violin",
+      "original_filename": "Worlds Smallest Violin (free sound effect HD) #violin.mp3",
+      "category": "music",
+      "tags": [
+        "disappointment",
+        "fail",
+        "mood",
+        "music",
+        "sad",
+        "sting"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/worlds-smallest-violin-free-sound-effect-hd-violin.mp3",
+      "audio_path": "assets/originals/worlds-smallest-violin-free-sound-effect-hd-violin.mp3",
+      "original_sha256": "7bf801ad7235d654fa7811f91c4c602e810ce28536f241452b4aa5658beb0c48",
+      "audio_sha256": "7bf801ad7235d654fa7811f91c4c602e810ce28536f241452b4aa5658beb0c48",
+      "original": {
+        "duration_seconds": 6.4261,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 257182
+      },
+      "audio": {
+        "duration_seconds": 6.4261,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 257182
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "wrong-buzzer-sound-effect",
+      "title": "Wrong Buzzer - Sound Effect",
+      "original_filename": "Wrong Buzzer - Sound Effect.mp3",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "notification",
+        "punctuation"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/wrong-buzzer-sound-effect.mp3",
+      "audio_path": "assets/originals/wrong-buzzer-sound-effect.mp3",
+      "original_sha256": "f8ce251b1b18200f358cd06c3b95823c5913f6ae6747275ce68589d1c6ffe9df",
+      "audio_sha256": "f8ce251b1b18200f358cd06c3b95823c5913f6ae6747275ce68589d1c6ffe9df",
+      "original": {
+        "duration_seconds": 2.97795,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 119256
+      },
+      "audio": {
+        "duration_seconds": 2.97795,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 119256
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "yeet-sound-effect",
+      "title": "Yeet sound effect",
+      "original_filename": "Yeet sound effect.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/yeet-sound-effect.mp3",
+      "audio_path": "assets/originals/yeet-sound-effect.mp3",
+      "original_sha256": "18fc07aa6d04ef3392bd400c181b4e37f34edee015c3f01718e87c2525b14926",
+      "audio_sha256": "18fc07aa6d04ef3392bd400c181b4e37f34edee015c3f01718e87c2525b14926",
+      "original": {
+        "duration_seconds": 1.384475,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 55517
+      },
+      "audio": {
+        "duration_seconds": 1.384475,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 55517
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "youre-my-friend-now-original-sound-effects-by-santut-sound-effects",
+      "title": "Youre My Friend Now  Original Sound Effects  By SANTUT Sound Effects",
+      "original_filename": "Youre My Friend Now  Original Sound Effects  By SANTUT Sound Effects.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/youre-my-friend-now-original-sound-effects-by-santut-sound-effects.mp3",
+      "audio_path": "assets/originals/youre-my-friend-now-original-sound-effects-by-santut-sound-effects.mp3",
+      "original_sha256": "896f6b392f3294ef518ef151a1bbe6d198aaf3339136a781105ed3e4b0a55854",
+      "audio_sha256": "896f6b392f3294ef518ef151a1bbe6d198aaf3339136a781105ed3e4b0a55854",
+      "original": {
+        "duration_seconds": 6.138775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 245689
+      },
+      "audio": {
+        "duration_seconds": 6.138775,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 245689
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "zelda-get-item-sound-effect",
+      "title": "Zelda Get Item - Sound Effect",
+      "original_filename": "Zelda Get Item - Sound Effect.mp3",
+      "category": "game",
+      "tags": [
+        "celebration",
+        "game",
+        "reaction",
+        "success"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/zelda-get-item-sound-effect.mp3",
+      "audio_path": "assets/originals/zelda-get-item-sound-effect.mp3",
+      "original_sha256": "d7e49bab5237792bbcd47c9806e67540397c6ed7f313314c8ce8c235f71bd81a",
+      "audio_sha256": "d7e49bab5237792bbcd47c9806e67540397c6ed7f313314c8ce8c235f71bd81a",
+      "original": {
+        "duration_seconds": 6.191,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 247778
+      },
+      "audio": {
+        "duration_seconds": 6.191,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 247778
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "leave-me-alone-akira-meme-green-screen",
+      "title": "“Leave Me Alone” Akira Meme  Green Screen",
+      "original_filename": "“Leave Me Alone” Akira Meme  Green Screen.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/leave-me-alone-akira-meme-green-screen.mp3",
+      "audio_path": "assets/originals/leave-me-alone-akira-meme-green-screen.mp3",
+      "original_sha256": "591b4e54ded988805fd8ed98e243924f56ed636ccef0bebfaab2a6416e6cfbb3",
+      "audio_sha256": "591b4e54ded988805fd8ed98e243924f56ed636ccef0bebfaab2a6416e6cfbb3",
+      "original": {
+        "duration_seconds": 6.11265,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 244644
+      },
+      "audio": {
+        "duration_seconds": 6.11265,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 244644
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "oh-my-god-bruh-oh-hell-naw-man-wtf-audio",
+      "title": "“Oh my god bruh, oh hell naw man wtf” Audio",
+      "original_filename": "“Oh my god bruh, oh hell naw man wtf” Audio.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "explicit-language-likely",
+        "meme",
+        "reaction",
+        "surprise"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/oh-my-god-bruh-oh-hell-naw-man-wtf-audio.mp3",
+      "audio_path": "assets/originals/oh-my-god-bruh-oh-hell-naw-man-wtf-audio.mp3",
+      "original_sha256": "9bdc18bb28a3f31990d0254f48777f26515287c0824498463f467e997ca06479",
+      "audio_sha256": "9bdc18bb28a3f31990d0254f48777f26515287c0824498463f467e997ca06479",
+      "original": {
+        "duration_seconds": 10.8408,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 433770
+      },
+      "audio": {
+        "duration_seconds": 10.8408,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 433770
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    },
+    {
+      "id": "well-im-out-of-here",
+      "title": "“Well, I’m out of here”",
+      "original_filename": "“Well, I’m out of here”.mp3",
+      "category": "reaction",
+      "tags": [
+        "comedy",
+        "meme",
+        "reaction"
+      ],
+      "annotation_basis": "filename; not auditioned",
+      "original_path": "assets/originals/well-im-out-of-here.mp3",
+      "audio_path": "assets/originals/well-im-out-of-here.mp3",
+      "original_sha256": "7c40f8062b9b2b261dceb3a7a2438d821f7cdfddc5f44703ffe9197f3313cbf0",
+      "audio_sha256": "7c40f8062b9b2b261dceb3a7a2438d821f7cdfddc5f44703ffe9197f3313cbf0",
+      "original": {
+        "duration_seconds": 5.87755,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 235240
+      },
+      "audio": {
+        "duration_seconds": 5.87755,
+        "codec": "mp3",
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "size_bytes": 235240
+      },
+      "license_status": "unverified",
+      "license": null,
+      "author": null,
+      "source_url": null
+    }
+  ]
+}
